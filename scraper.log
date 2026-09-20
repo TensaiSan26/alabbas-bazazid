@@ -1,0 +1,1695 @@
+[2026-09-19 08:34:31] ==================================================
+[2026-09-19 08:34:31] LinkedIn Scraper v2 — Clean, Rugged, Robust, Scalable
+[2026-09-19 08:34:31] ==================================================
+[2026-09-19 08:34:31] Features: Stealth | Proxy | Rate Limiter | Auto-Relogin | Export | Dashboard | Resume
+[2026-09-19 08:34:31] Session age: 8759.8h
+[2026-09-19 08:34:31] Searches: 15 | Profiles: 1 | Agents: 1
+[2026-09-19 08:34:31] 
+[2026-09-19 08:34:31] [Agent 1] Starting — 15 searches
+[2026-09-19 08:34:31] [Agent 1] Stealth mode: ON
+[2026-09-19 08:34:31] [Agent 1] Session loaded (11 cookies)
+[2026-09-19 08:35:04] [Agent 1] Session refreshed and reloaded
+[2026-09-19 08:35:04] 
+Fatal error: cannot access local variable 'completed' where it is not associated with a value
+[2026-09-19 08:35:14] ==================================================
+[2026-09-19 08:35:14] LinkedIn Scraper v2 — Clean, Rugged, Robust, Scalable
+[2026-09-19 08:35:14] ==================================================
+[2026-09-19 08:35:14] Features: Stealth | Proxy | Rate Limiter | Auto-Relogin | Export | Dashboard | Resume
+[2026-09-19 08:35:14] Session age: 8760.0h
+[2026-09-19 08:35:14] Searches: 15 | Profiles: 1 | Agents: 1
+[2026-09-19 08:35:14] 
+[2026-09-19 08:35:14] [Agent 1] Starting — 15 searches
+[2026-09-19 08:35:14] [Agent 1] Stealth mode: ON
+[2026-09-19 08:35:15] [Agent 1] Session loaded (11 cookies)
+[2026-09-19 08:35:42] [Agent 1] Session refreshed and reloaded
+[2026-09-19 08:35:42]   [Agent 1] Searching: 'PLC programming' in Sudan...
+[2026-09-19 08:35:53]     Found 9 jobs
+[2026-09-19 08:35:53]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:35:53]     Sales Manager | $92/hr Remote
+Sales Manager | $92/hr Remote
+[2026-09-19 08:35:53]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:35:53]     Data Entry Clerk (Remote)
+Data Entry Clerk (Remote)
+[2026-09-19 08:35:53]     Service Technician
+Service Technician
+[2026-09-19 08:35:53]     Recruiting Intern
+Recruiting Intern with verification
+[2026-09-19 08:35:53]     Sales Manager
+Sales Manager
+[2026-09-19 08:35:53]     Electrical Engineer | Remote
+[2026-09-19 08:35:54]   [Agent 1] Searching: 'embedded systems' in Sudan...
+[2026-09-19 08:36:00]     Found 9 jobs
+[2026-09-19 08:36:00]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:36:00]     Linux Devices Software Engineer
+Linux Devices Software Engineer with verification
+[2026-09-19 08:36:00]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:36:00]     Service Technician
+Service Technician
+[2026-09-19 08:36:00]     Data Entry Clerk (Remote)
+Data Entry Clerk (Remote)
+[2026-09-19 08:36:00]     Recruiting Intern
+Recruiting Intern with verification
+[2026-09-19 08:36:00]     Customer Solutions Engineer - EMEA
+Customer Solutions Engineer - EMEA with verification
+[2026-09-19 08:36:00]     Electrical Engineer | Remote
+[2026-09-19 08:36:02]   [Agent 1] Searching: 'classic control' in Sudan...
+[2026-09-19 08:36:08]     Found 0 jobs
+[2026-09-19 08:36:10]   [Agent 1] Searching: 'microcontrollers' in Sudan...
+[2026-09-19 08:36:16]     Found 9 jobs
+[2026-09-19 08:36:16]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:36:16]     Sales Manager | $92/hr Remote
+Sales Manager | $92/hr Remote
+[2026-09-19 08:36:16]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:36:16]     Service Technician
+Service Technician
+[2026-09-19 08:36:16]     Recruiting Intern
+Recruiting Intern with verification
+[2026-09-19 08:36:16]     Sales Manager
+Sales Manager
+[2026-09-19 08:36:16]     CRM Operations Specialist - Remote
+CRM Operations Specialist - Remote
+[2026-09-19 08:36:16]     Electrical Engineer | Remote
+[2026-09-19 08:36:17]   [Agent 1] Searching: 'electrical control engineer' in Sudan...
+[2026-09-19 08:36:21]     Found 4 jobs
+[2026-09-19 08:36:21]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:36:21]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:36:21]     Electrical Engineer | Remote
+[2026-09-19 08:36:23]   [Agent 1] Searching: 'industrial automation' in Sudan...
+[2026-09-19 08:36:27]     Found 9 jobs
+[2026-09-19 08:36:27]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:36:27]     Sales Manager | $92/hr Remote
+Sales Manager | $92/hr Remote
+[2026-09-19 08:36:27]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:36:27]     Service Technician
+Service Technician
+[2026-09-19 08:36:27]     Project Manager [Warehouse Automation]
+Project Manager [Warehouse Automation] with verification
+[2026-09-19 08:36:27]     Recruiting Intern
+Recruiting Intern with verification
+[2026-09-19 08:36:27]     Sales Manager
+Sales Manager
+[2026-09-19 08:36:27]     Electrical Engineer | Remote
+[2026-09-19 08:36:29]   [Agent 1] Searching: 'control systems' in Middle East...
+[2026-09-19 08:36:33]     Found 9 jobs
+[2026-09-19 08:36:33]     Junior Instrument and Control Technician
+Junior Instrument and Control Technician with verification
+[2026-09-19 08:36:33]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:36:33]     Industrial & Technical Positions – Riyadh
+Industrial & Technical Positions – Riyadh with verification
+[2026-09-19 08:36:33]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:36:33]     engineering - Graduate Trainee
+engineering - Graduate Trainee
+[2026-09-19 08:36:33]     Embedded Systems Engineer
+Embedded Systems Engineer
+[2026-09-19 08:36:33]     Shift Engineer
+Shift Engineer with verification
+[2026-09-19 08:36:33]     Junior Instrument and Control Technician
+[2026-09-19 08:36:34]   [Agent 1] Searching: 'SCADA' in Middle East...
+[2026-09-19 08:36:39]     Found 9 jobs
+[2026-09-19 08:36:39]     Junior Instrument and Control Technician
+Junior Instrument and Control Technician with verification
+[2026-09-19 08:36:39]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:36:39]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:36:39]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:36:39]     engineering - Graduate Trainee
+engineering - Graduate Trainee
+[2026-09-19 08:36:39]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:36:39]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:36:39]     Junior Instrument and Control Technician
+[2026-09-19 08:36:40]   [Agent 1] Searching: 'TIA Portal' in Middle East...
+[2026-09-19 08:36:45]     Found 0 jobs
+[2026-09-19 08:36:47]   [Agent 1] Searching: 'Studio 5000' in Middle East...
+[2026-09-19 08:36:52]     Found 0 jobs
+[2026-09-19 08:36:53]   [Agent 1] Searching: 'data center' in Middle East...
+[2026-09-19 08:36:59]     Found 9 jobs
+[2026-09-19 08:36:59]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:36:59]     MEA Engineering Intern - TareeGE
+MEA Engineering Intern - TareeGE with verification
+[2026-09-19 08:36:59]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:36:59]     Technical Support Engineer Graduate (Saudi National)
+Technical Support Engineer Graduate (Saudi National) with verification
+[2026-09-19 08:36:59]     Data Entry Associate
+Data Entry Associate with verification
+[2026-09-19 08:36:59]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:36:59]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:36:59]     ENGINEER, TESTING & COMMI.
+[2026-09-19 08:37:01]   [Agent 1] Searching: 'oil gas' in Middle East...
+[2026-09-19 08:37:05]     Found 9 jobs
+[2026-09-19 08:37:05]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:37:05]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:37:05]     Electrician – O&M – Power
+Electrician – O&M – Power
+[2026-09-19 08:37:05]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:37:05]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:37:05]     Technical Support Engineer Graduate (Saudi National)
+Technical Support Engineer Graduate (Saudi National) with verification
+[2026-09-19 08:37:05]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:37:05]     Fresh Graduates
+[2026-09-19 08:37:07]   [Agent 1] Searching: 'automation engineer' in Sudan...
+[2026-09-19 08:37:12]     Found 6 jobs
+[2026-09-19 08:37:12]     Automation Test Engineer | Remote
+Automation Test Engineer | Remote
+[2026-09-19 08:37:12]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:37:12]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:37:12]     Kernel Build Automation Engineer - Ubuntu Linux
+Kernel Build Automation Engineer - Ubuntu Linux with verification
+[2026-09-19 08:37:12]     Automation Test Engineer | Remote
+[2026-09-19 08:37:14]   [Agent 1] Searching: 'electrical engineer' in Sudan...
+[2026-09-19 08:37:19]     Found 8 jobs
+[2026-09-19 08:37:19]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:37:19]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:37:19]     Research Engineer - Electrical, Mechanical & Chemical (Remote)
+Research Engineer - Electrical, Mechanical & Chemical (Remote)
+[2026-09-19 08:37:19]     Cooling Design Consultant (High-Voltage Motor Core)
+Cooling Design Consultant (High-Voltage Motor Core) with verification
+[2026-09-19 08:37:19]     Senior RF Systems Test Engineer
+Senior RF Systems Test Engineer
+[2026-09-19 08:37:19]     GPU Infrastructure Lead | Europe Remote | £120,000-£200,000 + Equity
+GPU Infrastructure Lead | Europe Remote | £120,000-£200,000 + Equity
+[2026-09-19 08:37:19]     Electrical Engineer | Remote
+[2026-09-19 08:37:20]   [Agent 1] Searching: 'instrumentation' in Middle East...
+[2026-09-19 08:37:25]     Found 9 jobs
+[2026-09-19 08:37:25]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:37:25]     Instrumentation and Electrical Technician - Tamar
+Instrumentation and Electrical Technician - Tamar with verification
+[2026-09-19 08:37:25]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:37:25]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:37:25]     Electrician – O&M – Power
+Electrician – O&M – Power
+[2026-09-19 08:37:25]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:37:25]     Maintenance and Engineering Intern - Umm Al Quwain (UAQ)
+Maintenance and Engineering Intern - Umm Al Quwain (UAQ) with verification
+[2026-09-19 08:37:25]     Fresh Graduates
+[2026-09-19 08:37:27] 
+[Agent 1] Fetching details for 10 relevant jobs...
+[2026-09-19 08:37:27]   [1] Electrical Engineer | Remote
+Electrical Engineer |...
+[2026-09-19 08:37:35]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:37:37]   [2] Electronic Engineer
+Electronic Engineer...
+[2026-09-19 08:37:41]      Company: Royal Caribbean Group, Location: EMEA
+[2026-09-19 08:37:43]   [3] Service Technician
+Service Technician...
+[2026-09-19 08:37:47]      Company: DAL GROUP ENGINEERING DIVISION (DED), Location: Sudan – Field Based
+[2026-09-19 08:37:49]   [4] Electrical Engineer | Remote...
+[2026-09-19 08:37:53]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:37:54]   [5] Electrical Engineer | Remote
+Electrical Engineer |...
+[2026-09-19 08:37:58]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:37:59]   [6] Linux Devices Software Engineer
+Linux Devices Soft...
+[2026-09-19 08:38:04]      Company: Canonical, Location: we have remote roles open in every time zone.
+[2026-09-19 08:38:05]   [7] Electronic Engineer
+Electronic Engineer...
+[2026-09-19 08:38:08]      Company: Royal Caribbean Group, Location: Shipboard (worldwide travel)
+[2026-09-19 08:38:09]   [8] Service Technician
+Service Technician...
+[2026-09-19 08:38:13]      Company: DAL GROUP ENGINEERING DIVISION (DED), Location: Sudan – Field Based
+[2026-09-19 08:38:15]   [9] Customer Solutions Engineer - EMEA
+Customer Soluti...
+[2026-09-19 08:38:19]      Company: Telesat, Location: EMEA
+[2026-09-19 08:38:21]   [10] Electrical Engineer | Remote...
+[2026-09-19 08:38:27]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:38:29] 
+[Agent 1] Done — 87 total, 61 relevant
+[2026-09-19 08:38:29] CSV exported: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_083829.csv
+[2026-09-19 08:38:29] Excel exported: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_083829.xlsx
+[2026-09-19 08:38:29] Dashboard: C:/Users/Tensaisan/linkedin_results/dashboard.html
+[2026-09-19 08:38:29] 
+==================================================
+[2026-09-19 08:38:29] Total unique jobs: 87
+[2026-09-19 08:38:29] Total relevant: 61
+[2026-09-19 08:38:29] Saved to C:\Users\Tensaisan\linkedin_results\linkedin_jobs.json
+[2026-09-19 08:38:29]   [PLC programming] Electrical Engineer | Remote
+Electrical Engineer | @ Crossing Hurdles (Remote)
+[2026-09-19 08:38:29]   [PLC programming] Electronic Engineer
+Electronic Engineer @ Royal Caribbean Group (EMEA)
+[2026-09-19 08:38:29]   [PLC programming] Service Technician
+Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Sudan – Field Based)
+[2026-09-19 08:38:29]   [PLC programming] Electrical Engineer | Remote @ Crossing Hurdles (Remote)
+[2026-09-19 08:38:29]   [embedded systems] Electrical Engineer | Remote
+Electrical Engineer | @ Crossing Hurdles (Remote)
+[2026-09-19 08:38:29]   [embedded systems] Linux Devices Software Engineer
+Linux Devices Soft @ Canonical (we have remote roles open in every time zone.)
+[2026-09-19 08:38:29]   [embedded systems] Electronic Engineer
+Electronic Engineer @ Royal Caribbean Group (Shipboard (worldwide travel))
+[2026-09-19 08:38:29]   [embedded systems] Service Technician
+Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Sudan – Field Based)
+[2026-09-19 08:38:29]   [embedded systems] Customer Solutions Engineer - EMEA
+Customer Soluti @ Telesat (EMEA)
+[2026-09-19 08:38:29]   [embedded systems] Electrical Engineer | Remote @ Crossing Hurdles (Remote)
+[2026-09-19 08:38:29]   [microcontrollers] Electrical Engineer | Remote
+Electrical Engineer | @  ()
+[2026-09-19 08:38:29]   [microcontrollers] Electronic Engineer
+Electronic Engineer @  ()
+[2026-09-19 08:38:29]   [microcontrollers] Service Technician
+Service Technician @  ()
+[2026-09-19 08:38:29]   [microcontrollers] Electrical Engineer | Remote @  ()
+[2026-09-19 08:38:29]   [electrical control engineer] Electrical Engineer | Remote
+Electrical Engineer | @  ()
+[2026-09-19 08:40:32] ==================================================
+[2026-09-19 08:40:32] LinkedIn Scraper v2 — Clean, Rugged, Robust, Scalable
+[2026-09-19 08:40:32] ==================================================
+[2026-09-19 08:40:32] Features: Stealth | Proxy | Rate Limiter | Auto-Relogin | Export | Dashboard | Resume
+[2026-09-19 08:40:32] Session age: 8759.9h
+[2026-09-19 08:40:32] Searches: 15 | Profiles: 1 | Agents: 1
+[2026-09-19 08:40:32] 
+[2026-09-19 08:40:32] [Agent 1] Starting — 15 searches
+[2026-09-19 08:40:32] [Agent 1] Stealth mode: ON
+[2026-09-19 08:40:33] [Agent 1] Session loaded (11 cookies, 8759.9h old)
+[2026-09-19 08:40:44] [Agent 1] Session refreshed and reloaded
+[2026-09-19 08:40:44]   [Agent 1] Searching: 'PLC programming' in Sudan...
+[2026-09-19 08:40:58]     Found 9 jobs
+[2026-09-19 08:40:58]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:40:58]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:40:58]     Service Technician
+Service Technician
+[2026-09-19 08:40:58]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:40:58]     Excel Expert - Remote
+Excel Expert - Remote
+[2026-09-19 08:40:58]     Customer Solutions Engineer - EMEA
+Customer Solutions Engineer - EMEA with verification
+[2026-09-19 08:40:58]     Business Development Manager - Region Germany and East of Europe
+Business Development Manager - Region Germany and East of Europe with verification
+[2026-09-19 08:40:58]     Electrical Engineer | Remote
+[2026-09-19 08:40:59]   [Agent 1] Searching: 'embedded systems' in Sudan...
+[2026-09-19 08:41:11]     Found 9 jobs
+[2026-09-19 08:41:11]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:41:11]     Co-Founder (Remote & Flexible Hours)
+Co-Founder (Remote & Flexible Hours) with verification
+[2026-09-19 08:41:11]     Linux Devices Software Engineer
+Linux Devices Software Engineer with verification
+[2026-09-19 08:41:11]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:41:11]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:41:11]     Service Technician
+Service Technician
+[2026-09-19 08:41:11]     Customer Solutions Engineer - EMEA
+Customer Solutions Engineer - EMEA with verification
+[2026-09-19 08:41:11]     Electrical Engineer | Remote
+[2026-09-19 08:41:12]   [Agent 1] Searching: 'classic control' in Sudan...
+[2026-09-19 08:41:21]     Found 0 jobs
+[2026-09-19 08:41:22]   [Agent 1] Searching: 'microcontrollers' in Sudan...
+[2026-09-19 08:41:29]     Found 9 jobs
+[2026-09-19 08:41:29]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:41:29]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:41:29]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:41:29]     Service Technician
+Service Technician
+[2026-09-19 08:41:29]     Driver
+Driver with verification
+[2026-09-19 08:41:29]     Customer Solutions Engineer - EMEA
+Customer Solutions Engineer - EMEA with verification
+[2026-09-19 08:41:29]     Business Development Manager - Region Germany and East of Europe
+Business Development Manager - Region Germany and East of Europe with verification
+[2026-09-19 08:41:29]     Electrical Engineer | Remote
+[2026-09-19 08:41:30]   [Agent 1] Searching: 'electrical control engineer' in Sudan...
+[2026-09-19 08:41:37]     Found 4 jobs
+[2026-09-19 08:41:37]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:41:37]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:41:37]     Electrical Engineer | Remote
+[2026-09-19 08:41:39]   [Agent 1] Searching: 'industrial automation' in Sudan...
+[2026-09-19 08:41:47]     Found 9 jobs
+[2026-09-19 08:41:47]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:41:47]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:41:47]     Service Technician
+Service Technician
+[2026-09-19 08:41:47]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:41:47]     Project Manager [Warehouse Automation]
+Project Manager [Warehouse Automation] with verification
+[2026-09-19 08:41:47]     Strategic Project Lead (Remote)
+Strategic Project Lead (Remote)
+[2026-09-19 08:41:47]     Excel Expert - Remote
+Excel Expert - Remote
+[2026-09-19 08:41:47]     Electrical Engineer | Remote
+[2026-09-19 08:41:48]   [Agent 1] Searching: 'control systems' in Middle East...
+[2026-09-19 08:41:55]     Found 9 jobs
+[2026-09-19 08:41:55]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:41:55]     Junior Instrument and Control Technician
+Junior Instrument and Control Technician with verification
+[2026-09-19 08:41:55]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:41:55]     Industrial & Technical Positions – Riyadh
+Industrial & Technical Positions – Riyadh with verification
+[2026-09-19 08:41:55]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:41:55]     engineering - Graduate Trainee
+engineering - Graduate Trainee
+[2026-09-19 08:41:55]     Embedded Systems Engineer
+Embedded Systems Engineer
+[2026-09-19 08:41:55]     Fresh Graduates
+[2026-09-19 08:41:56]   [Agent 1] Searching: 'SCADA' in Middle East...
+[2026-09-19 08:42:04]     Found 9 jobs
+[2026-09-19 08:42:04]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:42:04]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:42:04]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:42:04]     Fresh Graduates
+[2026-09-19 08:42:06]   [Agent 1] Searching: 'TIA Portal' in Middle East...
+[2026-09-19 08:42:17]     Found 0 jobs
+[2026-09-19 08:42:18]   [Agent 1] Searching: 'Studio 5000' in Middle East...
+[2026-09-19 08:42:25]     Found 0 jobs
+[2026-09-19 08:42:26]   [Agent 1] Searching: 'data center' in Middle East...
+[2026-09-19 08:42:34]     Found 9 jobs
+[2026-09-19 08:42:34]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:42:34]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:42:34]     Graduate Engineering Training Program – Kuwait Fund Collaboration-1
+Graduate Engineering Training Program – Kuwait Fund Collaboration-1 with verification
+[2026-09-19 08:42:34]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:42:34]     Technical Support Engineer Graduate (Saudi National)
+Technical Support Engineer Graduate (Saudi National) with verification
+[2026-09-19 08:42:34]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:42:34]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:42:34]     Fresh Graduates
+[2026-09-19 08:42:35]   [Agent 1] Searching: 'oil gas' in Middle East...
+[2026-09-19 08:42:41]     Found 9 jobs
+[2026-09-19 08:42:41]     Electrician – O&M – Power
+Electrician – O&M – Power
+[2026-09-19 08:42:41]     Technical Support Engineer Graduate (Saudi National)
+Technical Support Engineer Graduate (Saudi National) with verification
+[2026-09-19 08:42:41]     Fresh Graduates
+[2026-09-19 08:42:42]   [Agent 1] Searching: 'automation engineer' in Sudan...
+[2026-09-19 08:42:54]     Found 6 jobs
+[2026-09-19 08:42:54]     Automation Test Engineer | Remote
+Automation Test Engineer | Remote
+[2026-09-19 08:42:54]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:42:54]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:42:54]     Kernel Build Automation Engineer - Ubuntu Linux
+Kernel Build Automation Engineer - Ubuntu Linux with verification
+[2026-09-19 08:42:54]     Automation Test Engineer | Remote
+[2026-09-19 08:42:56]   [Agent 1] Searching: 'electrical engineer' in Sudan...
+[2026-09-19 08:43:02]     Found 8 jobs
+[2026-09-19 08:43:02]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:43:02]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:43:02]     Research Engineer - Electrical, Mechanical & Chemical (Remote)
+Research Engineer - Electrical, Mechanical & Chemical (Remote)
+[2026-09-19 08:43:02]     Cooling Design Consultant (High-Voltage Motor Core)
+Cooling Design Consultant (High-Voltage Motor Core) with verification
+[2026-09-19 08:43:02]     Senior RF Systems Test Engineer
+Senior RF Systems Test Engineer
+[2026-09-19 08:43:02]     GPU Infrastructure Lead | Europe Remote | £120,000-£200,000 + Equity
+GPU Infrastructure Lead | Europe Remote | £120,000-£200,000 + Equity
+[2026-09-19 08:43:02]     Electrical Engineer | Remote
+[2026-09-19 08:43:04]   [Agent 1] Searching: 'instrumentation' in Middle East...
+[2026-09-19 08:43:10]     Found 9 jobs
+[2026-09-19 08:43:10]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:43:10]     Instrumentation and Electrical Technician - Tamar
+Instrumentation and Electrical Technician - Tamar with verification
+[2026-09-19 08:43:10]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:43:10]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:43:10]     Electrician – O&M – Power
+Electrician – O&M – Power
+[2026-09-19 08:43:10]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:43:10]     Postgraduate Program - Mechatronics & Automation
+Postgraduate Program - Mechatronics & Automation
+[2026-09-19 08:43:10]     Fresh Graduates
+[2026-09-19 08:43:12] 
+[Agent 1] Fetching details for 10 relevant jobs...
+[2026-09-19 08:43:12]   [1] Electrical Engineer | Remote
+Electrical Engineer |...
+[2026-09-19 08:43:21]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:43:23]   [2] Electronic Engineer
+Electronic Engineer...
+[2026-09-19 08:43:30]      Company: Royal Caribbean Group, Location: Shipboard (worldwide travel)
+[2026-09-19 08:43:32]   [3] Service Technician
+Service Technician...
+[2026-09-19 08:43:39]      Company: DAL GROUP ENGINEERING DIVISION (DED), Location: Sudan – Field Based
+[2026-09-19 08:43:40]   [4] Customer Solutions Engineer - EMEA
+Customer Soluti...
+[2026-09-19 08:43:45]      Company: Telesat, Location: EMEA
+[2026-09-19 08:43:47]   [5] Electrical Engineer | Remote...
+[2026-09-19 08:43:50]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:43:51]   [6] Electrical Engineer | Remote
+Electrical Engineer |...
+[2026-09-19 08:43:59]      Company: Crossing Hurdles, Location: Remote
+[2026-09-19 08:44:00]   [7] Linux Devices Software Engineer
+Linux Devices Soft...
+[2026-09-19 08:44:06]      Company: Canonical, Location: EMEA
+[2026-09-19 08:44:07]   [8] Electronic Engineer
+Electronic Engineer...
+[2026-09-19 08:44:19]      Company: Royal Caribbean Group, Location: Shipboard (worldwide travel)
+[2026-09-19 08:44:21]   [9] Service Technician
+Service Technician...
+[2026-09-19 08:44:25]      Company: DAL GROUP ENGINEERING DIVISION (DED), Location: Sudan – Field Based
+[2026-09-19 08:44:26]   [10] Customer Solutions Engineer - EMEA
+Customer Soluti...
+[2026-09-19 08:44:32]      Company: Telesat, Location: EMEA
+[2026-09-19 08:44:35] 
+[Agent 1] Done — 78 total, 51 relevant
+[2026-09-19 08:44:35] CSV exported: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_084435.csv
+[2026-09-19 08:44:35] Excel exported: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_084435.xlsx
+[2026-09-19 08:44:35] Dashboard: C:/Users/Tensaisan/linkedin_results/dashboard.html
+[2026-09-19 08:44:35] 
+==================================================
+[2026-09-19 08:44:35] Total unique jobs: 78
+[2026-09-19 08:44:35] Total relevant: 51
+[2026-09-19 08:44:35] Saved to C:\Users\Tensaisan\linkedin_results\linkedin_jobs.json
+[2026-09-19 08:44:35]   [PLC programming] Electrical Engineer | Remote
+Electrical Engineer | @ Crossing Hurdles (Remote)
+[2026-09-19 08:44:35]   [PLC programming] Electronic Engineer
+Electronic Engineer @ Royal Caribbean Group (Shipboard (worldwide travel))
+[2026-09-19 08:44:35]   [PLC programming] Service Technician
+Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Sudan – Field Based)
+[2026-09-19 08:44:35]   [PLC programming] Customer Solutions Engineer - EMEA
+Customer Soluti @ Telesat (EMEA)
+[2026-09-19 08:44:35]   [PLC programming] Electrical Engineer | Remote @ Crossing Hurdles (Remote)
+[2026-09-19 08:44:35]   [embedded systems] Electrical Engineer | Remote
+Electrical Engineer | @ Crossing Hurdles (Remote)
+[2026-09-19 08:44:35]   [embedded systems] Linux Devices Software Engineer
+Linux Devices Soft @ Canonical (EMEA)
+[2026-09-19 08:44:35]   [embedded systems] Electronic Engineer
+Electronic Engineer @ Royal Caribbean Group (Shipboard (worldwide travel))
+[2026-09-19 08:44:35]   [embedded systems] Service Technician
+Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Sudan – Field Based)
+[2026-09-19 08:44:35]   [embedded systems] Customer Solutions Engineer - EMEA
+Customer Soluti @ Telesat (EMEA)
+[2026-09-19 08:44:35]   [embedded systems] Electrical Engineer | Remote @  ()
+[2026-09-19 08:44:35]   [microcontrollers] Electrical Engineer | Remote
+Electrical Engineer | @  ()
+[2026-09-19 08:44:35]   [microcontrollers] Electronic Engineer
+Electronic Engineer @  ()
+[2026-09-19 08:44:35]   [microcontrollers] Service Technician
+Service Technician @  ()
+[2026-09-19 08:44:35]   [microcontrollers] Customer Solutions Engineer - EMEA
+Customer Soluti @  ()
+[2026-09-19 08:49:02] ==================================================
+[2026-09-19 08:49:02] LinkedIn Scraper v2 — Clean, Rugged, Robust, Scalable
+[2026-09-19 08:49:02] ==================================================
+[2026-09-19 08:49:02] Features: Stealth | Proxy | Rate Limiter | Auto-Relogin | Export | Dashboard | Resume
+[2026-09-19 08:49:02] Session age: 8759.8h
+[2026-09-19 08:49:02] Searches: 15 | Profiles: 1 | Agents: 1
+[2026-09-19 08:49:02] 
+[2026-09-19 08:49:02] [Agent 1] Starting — 15 searches
+[2026-09-19 08:49:02] [Agent 1] Stealth mode: ON
+[2026-09-19 08:49:03] [Agent 1] Session loaded (11 cookies, 8759.8h old)
+[2026-09-19 08:49:47] 
+Fatal error: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/feed", waiting until "load"
+
+[2026-09-19 08:55:16] ==================================================
+[2026-09-19 08:55:16] LinkedIn Scraper v3 — CDP + Stealth + Export + Dashboard
+[2026-09-19 08:55:16] ==================================================
+[2026-09-19 08:55:16] Session age: 8759.7h
+[2026-09-19 08:55:16] Searches: 15 | Agents: 1
+[2026-09-19 08:55:16] [Agent 1] Starting — 15 searches
+[2026-09-19 08:55:16] [Agent 1] Stealth: ON
+[2026-09-19 08:55:16] [Agent 1] Trying CDP...
+[2026-09-19 08:55:22] [Agent 1] CDP down, launching browser
+[2026-09-19 08:55:23] [Agent 1] Session loaded (11 cookies, 8759.7h)
+[2026-09-19 08:55:36] [Agent 1] Session refreshed
+[2026-09-19 08:55:36]   Searching: 'PLC programming' in Sudan...
+[2026-09-19 08:56:05]     Found 9 jobs
+[2026-09-19 08:56:05]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:56:05]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:56:05]     Graduate Sales Development Representative
+Graduate Sales Development Representative with verification
+[2026-09-19 08:56:05]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:56:05]     Project Manager [Warehouse Automation]
+Project Manager [Warehouse Automation] with verification
+[2026-09-19 08:56:05]     Business Development Specialist
+Business Development Specialist
+[2026-09-19 08:56:05]     Product Manager (Remote)
+Product Manager (Remote)
+[2026-09-19 08:56:05]     Electrical Engineer | Remote
+[2026-09-19 08:56:07]   Searching: 'embedded systems' in Sudan...
+[2026-09-19 08:56:16]     Found 9 jobs
+[2026-09-19 08:56:16]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:56:16]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:56:16]     Linux Devices Software Engineer
+Linux Devices Software Engineer with verification
+[2026-09-19 08:56:16]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:56:16]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:56:16]     Service Technician
+Service Technician
+[2026-09-19 08:56:16]     Driver
+Driver with verification
+[2026-09-19 08:56:16]     Electrical Engineer | Remote
+[2026-09-19 08:56:18]   Searching: 'classic control' in Sudan...
+[2026-09-19 08:56:27]     Found 0 jobs
+[2026-09-19 08:56:28]   Searching: 'microcontrollers' in Sudan...
+[2026-09-19 08:56:34]     Found 9 jobs
+[2026-09-19 08:56:34]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:56:34]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:56:34]     Graduate Sales Development Representative
+Graduate Sales Development Representative with verification
+[2026-09-19 08:56:34]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:56:34]     Undergraduate Student
+Undergraduate Student
+[2026-09-19 08:56:34]     Service Technician
+Service Technician
+[2026-09-19 08:56:34]     Business Development Specialist
+Business Development Specialist
+[2026-09-19 08:56:34]     Electrical Engineer | Remote
+[2026-09-19 08:56:35]   Searching: 'electrical control engineer' in Sudan...
+[2026-09-19 08:56:45]     Found 4 jobs
+[2026-09-19 08:56:45]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:56:45]     Electronic Engineer
+Electronic Engineer
+[2026-09-19 08:56:45]     Electrical Engineer | Remote
+[2026-09-19 08:56:46]   Searching: 'industrial automation' in Sudan...
+[2026-09-19 08:56:55]     Found 9 jobs
+[2026-09-19 08:56:55]     Electrical Engineer | Remote
+Electrical Engineer | Remote
+[2026-09-19 08:56:55]     Electrical Systems Specialist (Remote)
+Electrical Systems Specialist (Remote)
+[2026-09-19 08:56:55]     Graduate Sales Development Representative
+Graduate Sales Development Representative with verification
+[2026-09-19 08:56:55]     Service Technician
+Service Technician
+[2026-09-19 08:56:55]     Business Development Specialist
+Business Development Specialist
+[2026-09-19 08:56:55]     Project Manager [Warehouse Automation]
+Project Manager [Warehouse Automation] with verification
+[2026-09-19 08:56:55]     Product Manager (Remote)
+Product Manager (Remote)
+[2026-09-19 08:56:55]     Electrical Engineer | Remote
+[2026-09-19 08:56:56]   Searching: 'control systems' in Middle East...
+[2026-09-19 08:57:03]     Found 9 jobs
+[2026-09-19 08:57:03]     Fresh Graduates
+Fresh Graduates with verification
+[2026-09-19 08:57:03]     Junior Instrument and Control Technician
+Junior Instrument and Control Technician with verification
+[2026-09-19 08:57:03]     ENGINEER, TESTING & COMMI.
+ENGINEER, TESTING & COMMI.
+[2026-09-19 08:57:03]     Industrial & Technical Positions – Riyadh
+Industrial & Technical Positions – Riyadh with verification
+[2026-09-19 08:57:03]     Fresh Electrical Mechatronics Graduates Required for Maintenance
+Fresh Electrical Mechatronics Graduates Required for Maintenance
+[2026-09-19 08:57:03]     Early Career Trainee - Control Services
+Early Career Trainee - Control Services with verification
+[2026-09-19 08:57:03]     Embedded Systems Engineer
+Embedded Systems Engineer
+[2026-09-19 08:57:03]     Fresh Graduates
+[2026-09-19 08:57:04]   Searching: 'SCADA' in Middle East...
+[2026-09-19 08:57:17]     Found 9 jobs
+[2026-09-19 08:57:17]     Graduate I&C Engineer
+Graduate I&C Engineer with verification
+[2026-09-19 08:57:17]     Fresh graduate Technicians
+Fresh graduate Technicians with verification
+[2026-09-19 08:57:17]     engineering - Graduate Trainee
+engineering - Graduate Trainee
+[2026-09-19 08:57:17]     Engineering Opportunities - Fresh Graduates
+Engineering Opportunities - Fresh Graduates
+[2026-09-19 08:57:17]     Fresh Graduates
+[2026-09-19 08:57:18]   Searching: 'TIA Portal' in Middle East...
+[2026-09-19 08:57:18]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=TIA%20Portal&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:19]   Searching: 'Studio 5000' in Middle East...
+[2026-09-19 08:57:19]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=Studio%205000&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:21]   Searching: 'data center' in Middle East...
+[2026-09-19 08:57:21]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=data%20center&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:22]   Searching: 'oil gas' in Middle East...
+[2026-09-19 08:57:22]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=oil%20gas&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:23]   Searching: 'automation engineer' in Sudan...
+[2026-09-19 08:57:23]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=automation%20engineer&location=Sudan&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:24]   Searching: 'electrical engineer' in Sudan...
+[2026-09-19 08:57:24]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=electrical%20engineer&location=Sudan&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:26]   Searching: 'instrumentation' in Middle East...
+[2026-09-19 08:57:26]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=instrumentation&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 08:57:28] 
+[Agent 1] Fetching details for 10 relevant...
+[2026-09-19 08:57:28]   [1] Electrical Engineer | Remote
+Electrical Engineer |...
+[2026-09-19 08:57:28]   Retry 1/3: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/view/4466385599/?eBP=CwEAAAGguHNhXhywN_IhAnZoE6_u5dfdeRA2QB-ZgURqR9YXj1UHKxKJSUuQkHzMtke3x1dIodM9AUXYRY6pXtawqle_BGowwaPDaMgdvN5Sd4TsVeDo71USCBggz89kFnB27lIjMp-OVh0qnovRXfQ9GDw1aQKMzpa1M14NAH6IroOCtRQbHQ3aZe28RzGLFdCnNRVsOviCF-GtH83uKzzUARVAWtUnrHZq2sgQCuK7bFJh_2ks9hcmqu3d4qwMTnESrRj8tPS9S8df_tpjdzaFf5wHUsgWyPYpFl7jgeFqbqdQm_-CYS7gsD2l06hBLewVx7yK9Su8mpQZIXF8iFWKNWaJbvAZL_gyGyVnS98qpv9aBzvu9lrjEZU9tnPehxKr8lIHNOweJv9KV0AtVNp1CNWepiCoXC4ty_71evkjmHSoSZvGCsp16KNc0HKwB_xd0k3CRydAsk1Z8N1b97UKwwFfvnea9O0Cq0mjMhtApfnzF5VOt8V322qDLCB6&refId=ZpsRSPkByfSZA2m5JVRBjw%3D%3D&trackingId=W6n7xjoQMOPnzkK2S7%2BDcQ%3D%3D&trk=flagship3_search_srp_jobs", waiting until "domcontentloaded"
+ — 5s
+[2026-09-19 09:01:14] ==================================================
+[2026-09-19 09:01:14] LinkedIn Scraper v3 — CDP + Stealth + Export + Dashboard
+[2026-09-19 09:01:14] ==================================================
+[2026-09-19 09:01:14] Session age: 8759.6h
+[2026-09-19 09:01:14] Searches: 15 | Agents: 1
+[2026-09-19 09:01:14] [Agent 1] Starting — 15 searches
+[2026-09-19 09:01:14] [Agent 1] Stealth: ON
+[2026-09-19 09:01:14] [Agent 1] Resuming — 8 done
+[2026-09-19 09:01:14] [Agent 1] Trying CDP...
+[2026-09-19 09:01:20] [Agent 1] CDP down, launching browser
+[2026-09-19 09:01:21] [Agent 1] Session loaded (11 cookies, 8759.6h)
+[2026-09-19 09:01:50] [Agent 1] Session refreshed
+[2026-09-19 09:01:50]   Skipping completed: 'PLC programming'
+[2026-09-19 09:01:50]   Skipping completed: 'embedded systems'
+[2026-09-19 09:01:50]   Skipping completed: 'classic control'
+[2026-09-19 09:01:50]   Skipping completed: 'microcontrollers'
+[2026-09-19 09:01:50]   Skipping completed: 'electrical control engineer'
+[2026-09-19 09:01:50]   Skipping completed: 'industrial automation'
+[2026-09-19 09:01:50]   Skipping completed: 'control systems'
+[2026-09-19 09:01:50]   Skipping completed: 'SCADA'
+[2026-09-19 09:01:50]   Searching: 'TIA Portal' in Middle East...
+[2026-09-19 09:01:56]     Found 61 jobs
+[2026-09-19 09:01:56]     Director - Digital Solutions Delivery
+[2026-09-19 09:01:56]     Teknik Ofis Müdürü
+[2026-09-19 09:01:56]     Automation Developer
+[2026-09-19 09:01:56]     Automation Developer
+[2026-09-19 09:01:56]     Jr Asset Management Engineer
+[2026-09-19 09:01:56]     Technical Account Manager
+[2026-09-19 09:01:56]     Monitoring Operations Team Member
+[2026-09-19 09:01:56]     Control and Automation Engineer
+[2026-09-19 09:01:56]     Learning & Development Manager
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+Be an early applicant
+3 weeks ago
+[2026-09-19 09:01:56]     Senior Instrumentation Designer
+[2026-09-19 09:01:56]     Group Manager – Directory Services (Identity)
+[2026-09-19 09:01:56]     Portfolio Manager – Strategic Programs (Qatari National)
+[2026-09-19 09:01:56]     T&D Manager
+[2026-09-19 09:01:56]     ZAIN2486 - Integration Developer Team Member
+[2026-09-19 09:01:56]     Led Operator - Mondaine de Pariso Istanbul
+[2026-09-19 09:01:56]     Cluster Director of IT
+[2026-09-19 09:01:56]     L2 Middleware Engineer
+[2026-09-19 09:01:56]     Data Operations Specialist
+[2026-09-19 09:01:56]     Senior Data Governance Analyst
+[2026-09-19 09:01:56]     Principal Engineer Software- Modern Auth (Idira)
+[2026-09-19 09:01:56]     PL/SQL & AI Developer
+[2026-09-19 09:01:56]     Data & AI Engineer
+[2026-09-19 09:01:56]     Rope Access Technician L1
+[2026-09-19 09:01:56]     Yazılım ve Süreç Geliştirme Uzmanı
+[2026-09-19 09:01:56]     Staff Engineer Software- Authentication Team
+[2026-09-19 09:01:56]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Engineer, Cairo, Egypt
+[2026-09-19 09:01:56]     Principal Software Engineer (Directory Services)
+[2026-09-19 09:01:56]     RPA Engineer
+[2026-09-19 09:01:56]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Senior Engineer, Cairo, Egypt
+[2026-09-19 09:01:56]     Cluster Director of Engineering / Chief Engineer
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+3 weeks ago
+[2026-09-19 09:01:56]     Technology Director
+[2026-09-19 09:01:56]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Tech Lead, Cairo, Egypt
+[2026-09-19 09:01:56]     Associate Director - IT BRM
+[2026-09-19 09:01:56]     Senior Design Instrumentation and Control Engineer - Ref MTYSHQ-34
+[2026-09-19 09:01:56]     PMO Trainee - UAE National
+[2026-09-19 09:01:56]     IAM Engineer - Trading Firm
+[2026-09-19 09:01:56]     Configuration Manager
+[2026-09-19 09:01:56]     AI Engineer
+[2026-09-19 09:01:56]     Principal Engineer Software- Authentication Team (Idira)
+[2026-09-19 09:01:56]     Principal Engineer Software- Authentication Team (Idira)
+[2026-09-19 09:01:56]     Teknik Personel
+[2026-09-19 09:01:56]     BIM Specialist -Power BI
+[2026-09-19 09:01:56]     Information Technology Specialist (UAE National) - The Ritz-Carlton Abu Dhabi, Grand Canal
+[2026-09-19 09:01:56]     Technical Program Manager
+[2026-09-19 09:01:56]     Adventure Park Technician
+[2026-09-19 09:01:56]     The Specialist Digitalization Engineer (Greenfield)
+[2026-09-19 09:01:56]     HR Automation manager
+[2026-09-19 09:01:56]     Kurumsal Çözümler Analisti
+[2026-09-19 09:01:56]     Junior Monitoring Specialist
+[2026-09-19 09:01:56]     Trackwork CAD & BIM Operator
+[2026-09-19 09:01:56]     Team Leader, IT Automation (NOC Excellence)
+[2026-09-19 09:01:56]     Senior Infrastructure Officer
+[2026-09-19 09:01:56]     Agentic AI Engineer
+[2026-09-19 09:01:56]     Fixed Network Field Support Engineer
+[2026-09-19 09:01:56]     Orta Katman Uzmanı
+[2026-09-19 09:01:56]     Director Enterprise Systems
+[2026-09-19 09:01:56]     Technical Manager
+[2026-09-19 09:01:56]     Interface Manager
+[2026-09-19 09:01:56]     IBM CP4I OpenShift Operations/Administrator
+[2026-09-19 09:01:56]     Senior Principal Technician, Onboard Telemetry (UAE National)
+[2026-09-19 09:01:56]     Director - Digital Solutions Delivery
+[2026-09-19 09:01:58]   Searching: 'Studio 5000' in Middle East...
+[2026-09-19 09:02:04]     Found 61 jobs
+[2026-09-19 09:02:04]     Studio Lead
+[2026-09-19 09:02:04]     VP R&D
+[2026-09-19 09:02:04]     Co-Founder & CxO
+[2026-09-19 09:02:04]     Şirket Sahibi
+[2026-09-19 09:02:04]     Co-Founder & Real Estate & Asset Lead
+[2026-09-19 09:02:04]     Associate Director - Research and Development
+[2026-09-19 09:02:04]     Chief Technology Officer
+[2026-09-19 09:02:04]     Architectural Engineer – Project Management & Interior Fit-Out
+[2026-09-19 09:02:04]     Interior Designer/ Head of Product
+[2026-09-19 09:02:04]     Technical Director - New Games
+[2026-09-19 09:02:04]     Engineer
+[2026-09-19 09:02:04]     Senior Social Media Manager
+[2026-09-19 09:02:04]     Data & AI Capability Manager - RTG
+[2026-09-19 09:02:04]     DİZAYN OFİS ŞEFİ
+[2026-09-19 09:02:04]     ONE לארגון בירושלים מגייסת System Administrator
+[2026-09-19 09:02:04]     Head of Engineering
+[2026-09-19 09:02:04]     Head of Engineering
+[2026-09-19 09:02:04]     Junior Architect/ Interior Designer
+Alan shwana Eng.Bureau & tari construction
+Sulaymaniyah District, Sulaymaniyah Governorate, Iraq
+Be an early applicant
+1 week ago
+[2026-09-19 09:02:04]     Collections and Gallery Operations Manager
+[2026-09-19 09:02:04]     Assistant Chief Engineer
+[2026-09-19 09:02:04]     Lead MEP Technical Office Manager
+[2026-09-19 09:02:04]     Dizayn Ofis Mimarı - Kapadokya
+[2026-09-19 09:02:04]     Head of Content
+[2026-09-19 09:02:04]     IT Infrastructure Section Head
+[2026-09-19 09:02:04]     Senior Interior Designer
+[2026-09-19 09:02:04]     Head of Engineering
+[2026-09-19 09:02:04]     Studio Practice Leader
+[2026-09-19 09:02:04]     Purchase
+[2026-09-19 09:02:04]     مدينة الملك سلمان للطاقة تطرح وظائف لحملة البكالوريوس فأعلى
+[2026-09-19 09:02:04]     Backend Tech Lead
+[2026-09-19 09:02:04]     Creative / Studio Director
+[2026-09-19 09:02:04]     Teknik Müdür
+[2026-09-19 09:02:04]     Club Administrator — Xsolla Club Limassol
+[2026-09-19 09:02:04]     Senior Platform Engineer
+[2026-09-19 09:02:04]     Head of AI – Space and Electronic
+[2026-09-19 09:02:04]     Publisher Operations Manager
+[2026-09-19 09:02:04]     Senior Microsoft Cloud & Security Architect (Power Platform, Copilot, Intune, M365 Security)
+[2026-09-19 09:02:04]     Venture Manager
+[2026-09-19 09:02:04]     Engineering, Architecture, Construction & Project Controls
+[2026-09-19 09:02:04]     Associate AI Quality Engineer
+[2026-09-19 09:02:04]     Manager - Maintenance and Operations Support
+[2026-09-19 09:02:04]     Senior Design Architect
+[2026-09-19 09:02:04]     Events & Organized Play Lead – CardzCon
+[2026-09-19 09:02:04]     Senior Quantum Control Engineer (Quantum Processor)
+[2026-09-19 09:02:04]     Draftsman & Design Development Coordinator
+[2026-09-19 09:02:04]     Senior Consultant Azure VDI
+[2026-09-19 09:02:04]     Head of AI – Space and Electronic
+[2026-09-19 09:02:04]     Founding Low-Level / Systems Engineer
+[2026-09-19 09:02:04]     Director, R&D Site Lead
+[2026-09-19 09:02:04]     Cluster Director of Engineering / Chief Engineer
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+3 weeks ago
+[2026-09-19 09:02:04]     Plant Nursery Biosecurity & Plant Health Manager
+[2026-09-19 09:02:04]     Process Quality Specialist
+[2026-09-19 09:02:04]     Site Engineer - KYME
+[2026-09-19 09:02:04]     Teknik Ofis Müdürü
+[2026-09-19 09:02:04]     Technical Interior Architect
+[2026-09-19 09:02:04]     Senior Infrastructure and Technology Engineer
+[2026-09-19 09:02:04]     Junior Unreal Engine Developer
+[2026-09-19 09:02:04]     Director & Manager Smart Plant
+[2026-09-19 09:02:04]     Art Director - Sand Loop
+[2026-09-19 09:02:04]     Engineering Associate Electrician
+[2026-09-19 09:02:04]     Studio Lead
+[2026-09-19 09:02:07]   Searching: 'data center' in Middle East...
+[2026-09-19 09:02:12]     Found 61 jobs
+[2026-09-19 09:02:12]     AI Datacenter infrastructure Project Technical Head – HUMAIN Program
+[2026-09-19 09:02:12]     Project Director
+[2026-09-19 09:02:12]     Manager - Treasury
+[2026-09-19 09:02:12]     Lead Mechanical Engineer – Mission Critical (Data Centres)
+[2026-09-19 09:02:12]     Lead Power Systems Engineer - Data Centres
+[2026-09-19 09:02:12]     Mechanical Engineer (Data Center Exp)
+[2026-09-19 09:02:12]     Senior Project Manager
+[2026-09-19 09:02:12]     Solution Architect Data Centre Infrastructure
+[2026-09-19 09:02:12]     Project Director - Data Centre
+[2026-09-19 09:02:12]     Mechanical Technical Director – Mission Critical (Data Centres)
+[2026-09-19 09:02:12]     Global Principal Mechanical Design Engineer - Data Center Segment
+[2026-09-19 09:02:12]     Strategic Key Accounts Manager - Data Center Engineer
+[2026-09-19 09:02:12]     Data Center Project Manager, Critical Projects Implementation Team
+[2026-09-19 09:02:12]     Solution Architect Data Centre Infrastructure
+[2026-09-19 09:02:12]     Data Center Planner
+[2026-09-19 09:02:12]     Data Center Engineer/Technician, Data Center Operations (DCO), AWS
+[2026-09-19 09:02:12]     Senior Data Center Engineer
+[2026-09-19 09:02:12]     Project Director for Data Center
+[2026-09-19 09:02:12]     Data Center Automation Engineer
+[2026-09-19 09:02:12]     MEP Project Manager
+[2026-09-19 09:02:12]     Project Director - Data Centre
+[2026-09-19 09:02:12]     Data Center Technical Expert (Electrical)
+[2026-09-19 09:02:12]     Director, Enterprise PMO Infrastructure
+[2026-09-19 09:02:12]     EPC Director
+[2026-09-19 09:02:12]     Senior Project Manager – Technical Facilities
+[2026-09-19 09:02:12]     Site Program Leader - Data Center
+[2026-09-19 09:02:12]     AI Data Center Infrastructure – Project Technical Head
+[2026-09-19 09:02:12]     Technical Project Manager, Data Center Operations
+[2026-09-19 09:02:12]     Operations Engineer
+[2026-09-19 09:02:12]     Technical Director - Data Centre
+[2026-09-19 09:02:12]     Data Center Manager
+[2026-09-19 09:02:12]     Infrastructure Team Manager
+[2026-09-19 09:02:12]     Data Center BAS Operator
+[2026-09-19 09:02:12]     Technical Sales Specialist - Gulf
+[2026-09-19 09:02:12]     Client Account Manager
+[2026-09-19 09:02:12]     Data Center Technician III
+[2026-09-19 09:02:12]     Project Manager
+[2026-09-19 09:02:12]     Senior Mechanical Design Engineer
+[2026-09-19 09:02:12]     Data Center Design Engineer
+[2026-09-19 09:02:12]     Data Center Technicians
+[2026-09-19 09:02:12]     Gleeds UAE Future Data Centre opportunities
+[2026-09-19 09:02:12]     Data Center Technician & NOC Operator – Defense Company, Jerusalem Non-Shift Position
+[2026-09-19 09:02:12]     Business Development Manager
+[2026-09-19 09:02:12]     Technical Project Manager (Data Center)
+[2026-09-19 09:02:12]     Enterprise Marketing Manager – Middle East & Africa (MEA)
+[2026-09-19 09:02:12]     Cost Manager (MEP) - Data Centre
+[2026-09-19 09:02:12]     Principal Electrical Design Engineer | Data Centres
+[2026-09-19 09:02:12]     Data Centre Senior Design Manager (Mechanical/Electrical Engineer)
+[2026-09-19 09:02:12]     Technical Director – Data Centres & Mission Critical (Electrical)
+[2026-09-19 09:02:12]     Associate - Project Manager Data Centre
+[2026-09-19 09:02:12]     Senior Data Center Technician
+[2026-09-19 09:02:12]     Sales Account Manager
+[2026-09-19 09:02:12]     Data Center Solution Architect – Presales (Senior)
+[2026-09-19 09:02:12]     MEP Design Manager – Data Centres
+[2026-09-19 09:02:12]     Channel Account Manager- HPE Servers, Storage and Services
+[2026-09-19 09:02:12]     Sr. Sales Account Manager - HPE
+[2026-09-19 09:02:12]     Business Development Manager - Vertiv
+[2026-09-19 09:02:12]     Senior Storage Lead – Enterprise Infrastructure
+[2026-09-19 09:02:12]     Data Center Operations Director
+[2026-09-19 09:02:12]     ELECTRICAL COMMISSIONING ENGINEER (DATA CENTER)
+[2026-09-19 09:02:12]     AI Datacenter infrastructure Project Technical Head – HUMAIN Program
+[2026-09-19 09:02:15]   Searching: 'oil gas' in Middle East...
+[2026-09-19 09:02:19]     Found 61 jobs
+[2026-09-19 09:02:19]     SR. DRILLING ENGINEER
+[2026-09-19 09:02:19]     PRINCIPAL DRILLING ENGINEER
+[2026-09-19 09:02:19]     Senior HR Analyst
+[2026-09-19 09:02:19]     Vice President Project Delivery
+[2026-09-19 09:02:19]     Onshore Emergency Coordinator
+[2026-09-19 09:02:19]     Senior Process Safety & Risk Engineer
+[2026-09-19 09:02:19]     Drilling Solution Engineer
+[2026-09-19 09:02:19]     Operator, Shop-Explosive
+[2026-09-19 09:02:19]     Lead PSM Specialist
+[2026-09-19 09:02:19]     Graduate Mechanical Engineer
+[2026-09-19 09:02:19]     Geophysicist Advisor - Egypt
+[2026-09-19 09:02:19]     Reservoir Geologist
+[2026-09-19 09:02:19]     Field Specialist – Drilling & Completion Fluids
+[2026-09-19 09:02:19]     Commissioning Engineer - Offshore
+[2026-09-19 09:02:19]     Drilling Engineer
+[2026-09-19 09:02:19]     Project Engineer / Operations Lead (Drilling Fluids) (Oil & Gas) (Oilfield Services)
+[2026-09-19 09:02:19]     Senior Pipeline Engineer (Offshore)
+[2026-09-19 09:02:19]     Specialist Process Safety Engineer
+[2026-09-19 09:02:19]     Senior Recruitment Consultant - Oil and Gas
+[2026-09-19 09:02:19]     Planning Engineer – Oil & Gas
+[2026-09-19 09:02:19]     Engineer - Design
+[2026-09-19 09:02:19]     Wells Operation Manager
+[2026-09-19 09:02:19]     Well site supervisor
+[2026-09-19 09:02:19]     Senior Business Development Manager – Oil & Gas / Oilfield Equipment
+[2026-09-19 09:02:19]     Human Resources Manager
+[2026-09-19 09:02:19]     E&P Senior Legal Counsel
+[2026-09-19 09:02:19]     P&C Senior Partner
+[2026-09-19 09:02:19]     Drilling Engineer
+[2026-09-19 09:02:19]     Principal Safety Engineer - Offshore (Detailed Engineering)
+[2026-09-19 09:02:19]     HSE Specialist
+[2026-09-19 09:02:19]     Drilling Engineer (Muscat, Oman)
+[2026-09-19 09:02:19]     Field Specialist – Drilling Optimization Engineer
+[2026-09-19 09:02:19]     Principal Security Design Consultant — Energy (O&G) & Critical National Infrastructure
+[2026-09-19 09:02:19]     Maintenance Junior Technician
+[2026-09-19 09:02:19]     Lead Planning- Turnaround / Shutdown Projects
+[2026-09-19 09:02:19]     Lead Design Engineer, Instrumentation & Automation (Offshore)
+[2026-09-19 09:02:19]     Org Development & Workforce Planning Specialist.Organizational Effectiveness & Total Rewards
+[2026-09-19 09:02:19]     Org Development & Workforce Planning Specialist.Organizational Effectiveness & Total Rewards
+[2026-09-19 09:02:19]     Process Engineering Specialist - I&SRU
+[2026-09-19 09:02:19]     QA QC Inspector
+[2026-09-19 09:02:19]     HSES Specialist
+[2026-09-19 09:02:19]     Lead Pipeline Designer
+[2026-09-19 09:02:19]     FIELD.HSE SUPERVISOR
+[2026-09-19 09:02:19]     Tubing Conveyed Perforating Specialist - Wireline Services
+[2026-09-19 09:02:19]     Human Resources Director - Energy
+Energy
+Doha, Qatar
+1 day ago
+[2026-09-19 09:02:19]     CAD Technician
+[2026-09-19 09:02:19]     Interface Manager
+[2026-09-19 09:02:19]     Sr. Expert / Advisor - EC Upstream
+[2026-09-19 09:02:19]     Data Entry Clerk
+[2026-09-19 09:02:19]     Sr. Expert / Advisor - EC Midstream
+[2026-09-19 09:02:19]     Senior Pipelines Engineer
+[2026-09-19 09:02:19]     HR Analyst
+[2026-09-19 09:02:19]     Lead Engineer – Rotating and Packages
+[2026-09-19 09:02:19]     Principal Advisor - HSSE
+[2026-09-19 09:02:19]     Laboratory Specialist
+[2026-09-19 09:02:19]     Subsea SWAT Engineer
+[2026-09-19 09:02:19]     Engineering Manager
+[2026-09-19 09:02:19]     Specialist, Operating Integrity
+[2026-09-19 09:02:19]     Specialist, Drilling (Cementing II)
+[2026-09-19 09:02:19]     Junior Sales Engineer
+[2026-09-19 09:02:19]     SR. DRILLING ENGINEER
+[2026-09-19 09:02:21]   Searching: 'automation engineer' in Sudan...
+[2026-09-19 09:02:29]     Found 0 jobs
+[2026-09-19 09:02:32]   Searching: 'electrical engineer' in Sudan...
+[2026-09-19 09:02:35]     Found 3 jobs
+[2026-09-19 09:02:35]     Service Technician
+[2026-09-19 09:02:35]     Aviation Specialist
+[2026-09-19 09:02:35]     Service Technician
+[2026-09-19 09:02:38]   Searching: 'instrumentation' in Middle East...
+[2026-09-19 09:02:43]     Found 61 jobs
+[2026-09-19 09:02:43]     Senior Instrumentation Engineer
+[2026-09-19 09:02:43]     Senior Instrumentation Engineer
+[2026-09-19 09:02:43]     E & I Engineer
+[2026-09-19 09:02:43]     GEN. INSTRUMENT TECHNICIAN II
+[2026-09-19 09:02:43]     PMC Lead Instrumentation and Control Engineer
+[2026-09-19 09:02:43]     Senior Instrumentation Engineer (Offshore)
+[2026-09-19 09:02:43]     Analyzer Technician
+[2026-09-19 09:02:43]     Instrument & Control Technician
+[2026-09-19 09:02:43]     PMC Senior Instrumentation & Control Engineer
+[2026-09-19 09:02:43]     Instrumentation Technician
+[2026-09-19 09:02:43]     Analyzer Engineer
+[2026-09-19 09:02:43]     Instrumentation and Electrical Technician - Tamar
+[2026-09-19 09:02:43]     Senior Instrumentation Engineer
+[2026-09-19 09:02:43]     Calibration Technician - Jeddah
+[2026-09-19 09:02:43]     Field Service Engineer
+[2026-09-19 09:02:43]     Analyzer Engineer
+[2026-09-19 09:02:43]     Lead Instrumentation and Control Engineer
+[2026-09-19 09:02:43]     Lead Instrumentation and Control Engineer - Greenfield
+[2026-09-19 09:02:43]     Instrumentation Engineer
+[2026-09-19 09:02:43]     Technician IV, Analyzer Job
+[2026-09-19 09:02:43]     Instrumentation Engineer
+[2026-09-19 09:02:43]     Team Leader Instrument and Control Engineer
+[2026-09-19 09:02:43]     Instrumentation Engineer
+[2026-09-19 09:02:43]     Field Service Engineer - Instrumentation & Controls (Mark VIe/Mark VI/ Mark V)
+[2026-09-19 09:02:43]     Senior Instrumentation Control Engineer
+[2026-09-19 09:02:43]     Principal Instrumentation Designer
+[2026-09-19 09:02:43]     Associate Engineer - ASI (Bahraini National)
+[2026-09-19 09:02:44]     Laboratory Technician
+[2026-09-19 09:02:44]     Commissioning Instrument & Control Specialist - Granulation
+[2026-09-19 09:02:44]     TECHNICIAN - ANALYZERS
+[2026-09-19 09:02:44]     Senior Instrumentation & Control Engineer(System)
+[2026-09-19 09:02:44]     Field Service Engineer - Instrumentation & Controls (Mark VIe/Mark VI/ Mark V) (IRAQ Nationality Only)
+[2026-09-19 09:02:44]     Senior Instrument Technician
+[2026-09-19 09:02:44]     Instrumentation & Control Engineer
+[2026-09-19 09:02:44]     l&C Technicians
+[2026-09-19 09:02:44]     Instrumentation Engineer
+[2026-09-19 09:02:44]     Senior Instrumentation and Telecom Engineer
+[2026-09-19 09:02:44]     Lead Design Engineer, Instrumentation & Automation (Offshore)
+[2026-09-19 09:02:44]     Electrical and Instrumentation Engineer
+[2026-09-19 09:02:44]     Field Service Engineer
+[2026-09-19 09:02:44]     Kıdemli Elektrik ve Enstrümantasyon Mühendisi
+[2026-09-19 09:02:44]     Analytical Service Engineer
+[2026-09-19 09:02:44]     Sr. Inspector, Electrical (Instrumentation & Automation)
+[2026-09-19 09:02:44]     Senior Instrumentation Designer
+[2026-09-19 09:02:44]     Senior Design Instrumentation and Control Engineer - Ref MTYSHQ-34
+[2026-09-19 09:02:44]     Instrument & Controls Engineer - Cyber Coordination
+[2026-09-19 09:02:44]     Calibration Technician
+[2026-09-19 09:02:44]     Trainee Instrumentation Engineer (Emirati Hiring)
+[2026-09-19 09:02:44]     E&I Engineer / Supervisor
+[2026-09-19 09:02:44]     Electrical and Instrumentation Engineer
+[2026-09-19 09:02:44]     Electromechanical Technician
+[2026-09-19 09:02:44]     Instrumentation Foreman
+[2026-09-19 09:02:44]     Control Systems Engineer
+[2026-09-19 09:02:44]     Senior Engineer, I-C
+[2026-09-19 09:02:44]     Team Lead Instrumentation & Control
+[2026-09-19 09:02:44]     Trainee Engineer
+[2026-09-19 09:02:44]     QC inspector - Instrument - Project
+[2026-09-19 09:02:44]     I&C Technician
+[2026-09-19 09:02:44]     Calibration Manager
+[2026-09-19 09:02:44]     I&C / OT Maintenance Engineer
+[2026-09-19 09:02:44]     Senior Instrumentation Engineer
+[2026-09-19 09:02:46] 
+[Agent 1] Fetching details for 5 relevant...
+[2026-09-19 09:02:46]   [1] Jr Asset Management Engineer...
+[2026-09-19 09:02:51]      Co: , Loc: Middle East
+[2026-09-19 09:02:54]   [2] Control and Automation Engineer...
+[2026-09-19 09:03:00]      Co: , Loc: Saudi Arabia
+[2026-09-19 09:03:03]   [3] Senior Instrumentation Designer...
+[2026-09-19 09:03:06]      Co: , Loc: UAE
+[2026-09-19 09:03:09]   [4] L2 Middleware Engineer...
+[2026-09-19 09:03:18]      Co: , Loc: Saudi Arabia
+[2026-09-19 09:03:21]   [5] Principal Engineer Software- Modern Auth (Idira)...
+[2026-09-19 09:03:32]      Co: , Loc: 
+[2026-09-19 09:03:35] 
+[Agent 1] Done — 308 total, 157 relevant
+[2026-09-19 09:03:35] CSV: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_090335.csv
+[2026-09-19 09:03:35] Excel: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_090335.xlsx
+[2026-09-19 09:03:35] Dashboard: C:/Users/Tensaisan/linkedin_results/dashboard.html
+[2026-09-19 09:03:35] 
+==================================================
+[2026-09-19 09:03:35] Total: 308 | Relevant: 157
+[2026-09-19 09:03:35]   [TIA Portal] Jr Asset Management Engineer @  (Middle East)
+[2026-09-19 09:03:35]   [TIA Portal] Control and Automation Engineer @  (Saudi Arabia)
+[2026-09-19 09:03:35]   [TIA Portal] Senior Instrumentation Designer @  (UAE)
+[2026-09-19 09:03:35]   [TIA Portal] L2 Middleware Engineer @  (Saudi Arabia)
+[2026-09-19 09:03:35]   [TIA Portal] Principal Engineer Software- Modern Auth (Idira) @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Data & AI Engineer @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Rope Access Technician L1 @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Staff Engineer Software- Authentication Team @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Deloitte Innovation Hub I Cyber Security I Identit @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Principal Software Engineer (Directory Services) @  ()
+[2026-09-19 09:03:35]   [TIA Portal] RPA Engineer @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Deloitte Innovation Hub I Cyber Security I Identit @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Cluster Director of Engineering / Chief Engineer
+R @  ()
+[2026-09-19 09:03:35]   [TIA Portal] Senior Design Instrumentation and Control Engineer @  ()
+[2026-09-19 09:03:35]   [TIA Portal] IAM Engineer - Trading Firm @  ()
+[2026-09-19 09:07:17] ==================================================
+[2026-09-19 09:07:17] LinkedIn Scraper v3 — CDP + Stealth + Export + Dashboard
+[2026-09-19 09:07:17] ==================================================
+[2026-09-19 09:07:17] Session age: 999.0h
+[2026-09-19 09:07:17] Searches: 15 | Agents: 1
+[2026-09-19 09:07:17] [Agent 1] Starting — 15 searches
+[2026-09-19 09:07:17] [Agent 1] Stealth: ON
+[2026-09-19 09:07:17] [Agent 1] Trying CDP...
+[2026-09-19 09:07:23] [Agent 1] CDP down, launching browser
+[2026-09-19 09:07:24] [Agent 1] Session loaded (8 cookies, 999.0h)
+[2026-09-19 09:08:08] [Agent 1] Session refreshed
+[2026-09-19 09:08:08]   Searching: 'PLC programming' in Sudan...
+[2026-09-19 09:08:14]     Found 0 jobs
+[2026-09-19 09:08:18]   Searching: 'embedded systems' in Sudan...
+[2026-09-19 09:08:23]     Found 0 jobs
+[2026-09-19 09:08:26]   Searching: 'classic control' in Sudan...
+[2026-09-19 09:08:30]     Found 18 jobs
+[2026-09-19 09:08:30]     Risk & Compliance Manager - 2025857
+[2026-09-19 09:08:30]     Finance Manager
+[2026-09-19 09:08:30]     Medical Doctor
+[2026-09-19 09:08:30]     Partner Finance Officer
+[2026-09-19 09:08:30]     Manager, Country Security
+[2026-09-19 09:08:30]     Security Officer (P4)
+[2026-09-19 09:08:30]     Coordinator, MHPSS
+[2026-09-19 09:08:30]     Finance Officer( temporary cover)
+[2026-09-19 09:08:30]     Assistant & Information Management Officer
+[2026-09-19 09:08:30]     Program Manager
+[2026-09-19 09:08:30]     HMA Programme Manager
+[2026-09-19 09:08:30]     Office Associate
+[2026-09-19 09:08:30]     Operations Manager - Sudan
+[2026-09-19 09:08:30]     Service Technician
+[2026-09-19 09:08:30]     NGSS Curriculum Writer (Educational Writing Consultant)
+[2026-09-19 09:08:30]     Coordinator, Nutrition
+[2026-09-19 09:08:30]     WASH Officer
+[2026-09-19 09:08:30]     Coordinator, Monitoring and Evaluation - Intl
+[2026-09-19 09:08:32]   Searching: 'microcontrollers' in Sudan...
+[2026-09-19 09:08:37]     Found 0 jobs
+[2026-09-19 09:08:40]   Searching: 'electrical control engineer' in Sudan...
+[2026-09-19 09:08:44]     Found 1 jobs
+[2026-09-19 09:08:44]     Service Technician
+[2026-09-19 09:08:48]   Searching: 'industrial automation' in Sudan...
+[2026-09-19 09:08:56]     Found 1 jobs
+[2026-09-19 09:08:56]     Service Technician
+[2026-09-19 09:08:59]   Searching: 'control systems' in Middle East...
+[2026-09-19 09:09:09]     Found 61 jobs
+[2026-09-19 09:09:09]     Control Systems Simulation and Calibration Engineer
+[2026-09-19 09:09:09]     Controls Engineer II (SCADA, Ignition experience)
+[2026-09-19 09:09:09]     Senior Robotics Connectivity and Real-Time Systems Engineer
+[2026-09-19 09:09:09]     Automation Engineer, Powertrain
+[2026-09-19 09:09:09]     Powertrain Control Systems Simulation Engineer
+[2026-09-19 09:09:09]     Elektromekanik Kontrol Tasarım Mühendisi
+[2026-09-19 09:09:09]     Experienced Control Algorithms Engineer
+[2026-09-19 09:09:09]     Control and Automation Engineer
+[2026-09-19 09:09:09]     Control Systems Engineer
+[2026-09-19 09:09:09]     Lead Instrumentation & Control Engineer
+[2026-09-19 09:09:09]     Engineer - Automation
+[2026-09-19 09:09:09]     Control Engineer
+[2026-09-19 09:09:09]     Senior Principal Engineer,Guidance & Control (On-site in Abu Dhabi)
+[2026-09-19 09:09:09]     BMS Design Engineer
+[2026-09-19 09:09:09]     Control Systems Engineer
+[2026-09-19 09:09:09]     Senior Control Software Engineer
+[2026-09-19 09:09:09]     Lead Instrumentation and Control Engineer - Greenfield
+[2026-09-19 09:09:09]     Controls Engineer ||
+[2026-09-19 09:09:09]     Controls Engineer
+[2026-09-19 09:09:09]     Automation & PLC Engineer
+[2026-09-19 09:09:09]     Senior Operational Control System (OCS) / SCADA Engineer
+[2026-09-19 09:09:09]     Proje Mühendisi, SCADA & Otomasyon
+[2026-09-19 09:09:09]     Power & SCADA Design Expert (Rail)
+[2026-09-19 09:09:09]     Lead Engineer Industrial Automation & Robotics
+[2026-09-19 09:09:09]     Lead Engineer Industrial Automation & Robotics
+[2026-09-19 09:09:09]     Motion Control - Real Time Embedded Engineer
+[2026-09-19 09:09:09]     Kontrol Mühendisi
+[2026-09-19 09:09:09]     Senior Instrumentation Engineer
+[2026-09-19 09:09:09]     Lead Process Automation Systems Engineer
+[2026-09-19 09:09:09]     Lead Instrumentation and Control Engineer
+[2026-09-19 09:09:09]     Control and Algorithmics Engineer
+[2026-09-19 09:09:09]     Low Level Control Engineer
+[2026-09-19 09:09:09]     Automation Engineer
+[2026-09-19 09:09:09]     R&D Motion Control Engineer
+[2026-09-19 09:09:09]     SCADA Engineer
+[2026-09-19 09:09:09]     Principal Instrumentation & Controls Eng
+[2026-09-19 09:09:09]     Field Service Engineer - Instrumentation & Controls (Mark VIe/Mark VI/ Mark V)
+[2026-09-19 09:09:09]     Principal Instrumentation & Controls Eng
+[2026-09-19 09:09:09]     Control Engineer (576)
+[2026-09-19 09:09:09]     Senior Mechatronics Engineer
+[2026-09-19 09:09:09]     Elektrik Otomasyon Mühendisi
+[2026-09-19 09:09:09]     Otomasyon Mühendisi
+[2026-09-19 09:09:09]     Senior Instrumentation & Control Engineer(System)
+[2026-09-19 09:09:09]     Lead Centralized Control Engineer (SCADA)
+[2026-09-19 09:09:09]     Lead Commissioning Specialist -DCS
+[2026-09-19 09:09:09]     Lead SCC Engineer
+[2026-09-19 09:09:09]     Robotics Senior Motion Planning Engineer
+[2026-09-19 09:09:09]     Senior Software Application Engineer Turbomachinery Controls
+[2026-09-19 09:09:09]     System Engineer
+[2026-09-19 09:09:09]     Automation Engineer
+[2026-09-19 09:09:09]     Senior flight Control Engineer
+[2026-09-19 09:09:09]     Experienced Control Algorithms Engineer
+[2026-09-19 09:09:09]     מהנדס/ת הנחיה ובקרה
+[2026-09-19 09:09:09]     Otomasyon Mühendisi
+[2026-09-19 09:09:09]     Instrumentation & Control Engineer
+[2026-09-19 09:09:09]     Lead Substation Automation Engineer
+[2026-09-19 09:09:09]     Senior Guidance&Control Engineer
+[2026-09-19 09:09:09]     Senior OT Engineer (Utilities Sector)
+[2026-09-19 09:09:09]     Servo Control Engineer
+[2026-09-19 09:09:09]     Senior Engineer (Systems)
+[2026-09-19 09:09:09]     Control Systems Simulation and Calibration Engineer
+[2026-09-19 09:09:11]   Searching: 'SCADA' in Middle East...
+[2026-09-19 09:09:16]     Found 61 jobs
+[2026-09-19 09:09:16]     Lead Centralized Control Engineer (SCADA)
+[2026-09-19 09:09:16]     SCADA Operator
+[2026-09-19 09:09:16]     SCADA Engineer
+[2026-09-19 09:09:16]     Operational Technology Manager
+[2026-09-19 09:09:16]     Senior NCS Engineer
+[2026-09-19 09:09:16]     Lead Product Service Engineer - Controls Platform HMI & Network
+[2026-09-19 09:09:16]     OT/AIoT Engineer - Industrial Connectivity
+[2026-09-19 09:09:16]     Lead NCS Engineer
+[2026-09-19 09:09:16]     Scada Manager
+[2026-09-19 09:09:16]     Senior OT Engineer (Utilities Sector)
+[2026-09-19 09:09:16]     PO1 Controls, OT Networks & Automation Manager
+[2026-09-19 09:09:16]     Service Engineer - SCMS
+[2026-09-19 09:09:16]     Lead Substation Automation Engineer
+[2026-09-19 09:09:16]     Lead Engineer
+[2026-09-19 09:09:16]     Senior SAS Engineer
+[2026-09-19 09:09:16]     Proje Mühendisi, SCADA & Otomasyon
+[2026-09-19 09:09:16]     Lead Process Automation Systems Engineer
+[2026-09-19 09:09:16]     Control Systems Engineer
+[2026-09-19 09:09:16]     I&C Engineer - SCADA (Renewables) Umm Al Quwain, UAE
+[2026-09-19 09:09:16]     Controls Engineer II (SCADA, Ignition experience)
+[2026-09-19 09:09:16]     DT Industrial Automation Senior Engineer
+[2026-09-19 09:09:16]     Siemens SCMS and Cybersecurity Commissioning Engineer- Muscat, Oman
+[2026-09-19 09:09:16]     I&C / OT Maintenance Engineer
+[2026-09-19 09:09:16]     Dağıtım Teknolojileri Mühendisi
+[2026-09-19 09:09:16]     Senior Operational Control System (OCS) / SCADA Engineer
+[2026-09-19 09:09:16]     OT Systems Engineer
+[2026-09-19 09:09:16]     Senior Process Controls Engineer
+[2026-09-19 09:09:16]     תכנת בקרה ואוטומציה / הנדסאי בקרה
+[2026-09-19 09:09:16]     Senior Instrumentation and Telecom Engineer
+[2026-09-19 09:09:16]     Control System Specialist
+[2026-09-19 09:09:16]     Sr. Architect, Software Solutions - SAS - alfanar Electric
+[2026-09-19 09:09:16]     Control Systems Engineer
+[2026-09-19 09:09:16]     Snr I&C Support Engineer
+[2026-09-19 09:09:16]     SCADA ve Platform Yönetim Sistemleri Sistem Mühendisi
+[2026-09-19 09:09:16]     Senior Engineer Automation Actions
+[2026-09-19 09:09:16]     Lead Instrumentation and Control Engineer - Greenfield
+[2026-09-19 09:09:16]     RE Telecom/SCADA - JR020
+[2026-09-19 09:09:16]     Senior Engineer, Maintenance (Instrument & Control)
+[2026-09-19 09:09:16]     Project & Automation Engineer
+[2026-09-19 09:09:16]     Şebeke Yönetim Mühendisi
+[2026-09-19 09:09:16]     Senior Engineer (Systems)
+[2026-09-19 09:09:16]     Maintenance Automation Engineer
+[2026-09-19 09:09:16]     Advanced Process Control (APC) Engineer
+[2026-09-19 09:09:16]     Automation & PLC Engineer
+[2026-09-19 09:09:16]     OT Incident Response
+[2026-09-19 09:09:16]     Water DCS Projects Manager - Automation - alfanar Electric
+[2026-09-19 09:09:16]     Field Service Engineer - System 800xA (Safety)
+[2026-09-19 09:09:16]     Power & SCADA Design Expert (Rail)
+[2026-09-19 09:09:16]     Lead Instrumentation and Control Engineer
+[2026-09-19 09:09:16]     Sr. Project Engineering
+[2026-09-19 09:09:16]     OT Cybersecurity/SCADA Engineer
+[2026-09-19 09:09:16]     System Engineer
+[2026-09-19 09:09:16]     PLC & OT Engineer
+[2026-09-19 09:09:16]     Application Engineer - Switchgear Controls & Digital Systems
+[2026-09-19 09:09:16]     Testing & Commissioning Engineer – Substation Automation Systems- Doha, Qatar
+[2026-09-19 09:09:16]     Industrial Control Systems (ICS) Technician
+[2026-09-19 09:09:16]     Lead SOC Engineer (OT Cybersecurity)
+[2026-09-19 09:09:16]     Plant Computing Senior Engineer (MoM – Manufacturing Operations Management)
+[2026-09-19 09:09:16]     Senior I&C & Automation/Telecom Engineer
+[2026-09-19 09:09:16]     Elektrik Otomasyon Mühendisi
+[2026-09-19 09:09:16]     Lead Centralized Control Engineer (SCADA)
+[2026-09-19 09:09:19]   Searching: 'TIA Portal' in Middle East...
+[2026-09-19 09:09:23]     Found 61 jobs
+[2026-09-19 09:09:23]     Director - Digital Solutions Delivery
+[2026-09-19 09:09:23]     Teknik Ofis Müdürü
+[2026-09-19 09:09:23]     Automation Developer
+[2026-09-19 09:09:23]     Automation Developer
+[2026-09-19 09:09:23]     Jr Asset Management Engineer
+[2026-09-19 09:09:23]     Technical Account Manager
+[2026-09-19 09:09:23]     Monitoring Operations Team Member
+[2026-09-19 09:09:23]     Control and Automation Engineer
+[2026-09-19 09:09:23]     Learning & Development Manager
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+Be an early applicant
+3 weeks ago
+[2026-09-19 09:09:23]     Senior Instrumentation Designer
+[2026-09-19 09:09:23]     Group Manager – Directory Services (Identity)
+[2026-09-19 09:09:23]     Portfolio Manager – Strategic Programs (Qatari National)
+[2026-09-19 09:09:23]     T&D Manager
+[2026-09-19 09:09:23]     ZAIN2486 - Integration Developer Team Member
+[2026-09-19 09:09:23]     Led Operator - Mondaine de Pariso Istanbul
+[2026-09-19 09:09:23]     Cluster Director of IT
+[2026-09-19 09:09:23]     L2 Middleware Engineer
+[2026-09-19 09:09:23]     Data Operations Specialist
+[2026-09-19 09:09:23]     Senior Data Governance Analyst
+[2026-09-19 09:09:23]     Principal Engineer Software- Modern Auth (Idira)
+[2026-09-19 09:09:23]     PL/SQL & AI Developer
+[2026-09-19 09:09:23]     Data & AI Engineer
+[2026-09-19 09:09:23]     Rope Access Technician L1
+[2026-09-19 09:09:23]     Yazılım ve Süreç Geliştirme Uzmanı
+[2026-09-19 09:09:23]     Staff Engineer Software- Authentication Team
+[2026-09-19 09:09:23]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Engineer, Cairo, Egypt
+[2026-09-19 09:09:23]     Principal Software Engineer (Directory Services)
+[2026-09-19 09:09:23]     RPA Engineer
+[2026-09-19 09:09:23]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Senior Engineer, Cairo, Egypt
+[2026-09-19 09:09:23]     Cluster Director of Engineering / Chief Engineer
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+3 weeks ago
+[2026-09-19 09:09:23]     Technology Director
+[2026-09-19 09:09:23]     Deloitte Innovation Hub I Cyber Security I Identity and Access Management Tech Lead, Cairo, Egypt
+[2026-09-19 09:09:23]     Associate Director - IT BRM
+[2026-09-19 09:09:23]     Senior Design Instrumentation and Control Engineer - Ref MTYSHQ-34
+[2026-09-19 09:09:23]     PMO Trainee - UAE National
+[2026-09-19 09:09:23]     IAM Engineer - Trading Firm
+[2026-09-19 09:09:23]     Configuration Manager
+[2026-09-19 09:09:23]     AI Engineer
+[2026-09-19 09:09:23]     Principal Engineer Software- Authentication Team (Idira)
+[2026-09-19 09:09:23]     Principal Engineer Software- Authentication Team (Idira)
+[2026-09-19 09:09:23]     Teknik Personel
+[2026-09-19 09:09:23]     BIM Specialist -Power BI
+[2026-09-19 09:09:23]     Information Technology Specialist (UAE National) - The Ritz-Carlton Abu Dhabi, Grand Canal
+[2026-09-19 09:09:23]     Technical Program Manager
+[2026-09-19 09:09:23]     Adventure Park Technician
+[2026-09-19 09:09:23]     The Specialist Digitalization Engineer (Greenfield)
+[2026-09-19 09:09:23]     HR Automation manager
+[2026-09-19 09:09:23]     Kurumsal Çözümler Analisti
+[2026-09-19 09:09:23]     Junior Monitoring Specialist
+[2026-09-19 09:09:23]     Trackwork CAD & BIM Operator
+[2026-09-19 09:09:23]     Team Leader, IT Automation (NOC Excellence)
+[2026-09-19 09:09:23]     Senior Infrastructure Officer
+[2026-09-19 09:09:23]     Agentic AI Engineer
+[2026-09-19 09:09:23]     Fixed Network Field Support Engineer
+[2026-09-19 09:09:23]     Orta Katman Uzmanı
+[2026-09-19 09:09:23]     Director Enterprise Systems
+[2026-09-19 09:09:23]     Technical Manager
+[2026-09-19 09:09:23]     Interface Manager
+[2026-09-19 09:09:23]     IBM CP4I OpenShift Operations/Administrator
+[2026-09-19 09:09:23]     Senior Principal Technician, Onboard Telemetry (UAE National)
+[2026-09-19 09:09:23]     Director - Digital Solutions Delivery
+[2026-09-19 09:09:25]   Searching: 'Studio 5000' in Middle East...
+[2026-09-19 09:09:29]     Found 61 jobs
+[2026-09-19 09:09:29]     Studio Lead
+[2026-09-19 09:09:29]     VP R&D
+[2026-09-19 09:09:29]     Co-Founder & CxO
+[2026-09-19 09:09:29]     Şirket Sahibi
+[2026-09-19 09:09:29]     Co-Founder & Real Estate & Asset Lead
+[2026-09-19 09:09:29]     Associate Director - Research and Development
+[2026-09-19 09:09:29]     Chief Technology Officer
+[2026-09-19 09:09:29]     Architectural Engineer – Project Management & Interior Fit-Out
+[2026-09-19 09:09:29]     Interior Designer/ Head of Product
+[2026-09-19 09:09:29]     Technical Director - New Games
+[2026-09-19 09:09:29]     Engineer
+[2026-09-19 09:09:29]     Senior Social Media Manager
+[2026-09-19 09:09:29]     Data & AI Capability Manager - RTG
+[2026-09-19 09:09:29]     DİZAYN OFİS ŞEFİ
+[2026-09-19 09:09:29]     ONE לארגון בירושלים מגייסת System Administrator
+[2026-09-19 09:09:29]     Head of Engineering
+[2026-09-19 09:09:29]     Head of Engineering
+[2026-09-19 09:09:29]     Junior Architect/ Interior Designer
+Alan shwana Eng.Bureau & tari construction
+Sulaymaniyah District, Sulaymaniyah Governorate, Iraq
+Be an early applicant
+1 week ago
+[2026-09-19 09:09:29]     Collections and Gallery Operations Manager
+[2026-09-19 09:09:29]     Assistant Chief Engineer
+[2026-09-19 09:09:29]     Lead MEP Technical Office Manager
+[2026-09-19 09:09:29]     Dizayn Ofis Mimarı - Kapadokya
+[2026-09-19 09:09:29]     Head of Content
+[2026-09-19 09:09:29]     IT Infrastructure Section Head
+[2026-09-19 09:09:29]     Senior Interior Designer
+[2026-09-19 09:09:29]     Head of Engineering
+[2026-09-19 09:09:29]     Studio Practice Leader
+[2026-09-19 09:09:29]     Purchase
+[2026-09-19 09:09:29]     مدينة الملك سلمان للطاقة تطرح وظائف لحملة البكالوريوس فأعلى
+[2026-09-19 09:09:29]     Backend Tech Lead
+[2026-09-19 09:09:29]     Creative / Studio Director
+[2026-09-19 09:09:29]     Teknik Müdür
+[2026-09-19 09:09:29]     Club Administrator — Xsolla Club Limassol
+[2026-09-19 09:09:29]     Senior Platform Engineer
+[2026-09-19 09:09:29]     Head of AI – Space and Electronic
+[2026-09-19 09:09:29]     Publisher Operations Manager
+[2026-09-19 09:09:29]     Senior Microsoft Cloud & Security Architect (Power Platform, Copilot, Intune, M365 Security)
+[2026-09-19 09:09:29]     Venture Manager
+[2026-09-19 09:09:29]     Engineering, Architecture, Construction & Project Controls
+[2026-09-19 09:09:29]     Associate AI Quality Engineer
+[2026-09-19 09:09:29]     Manager - Maintenance and Operations Support
+[2026-09-19 09:09:29]     Senior Design Architect
+[2026-09-19 09:09:29]     Events & Organized Play Lead – CardzCon
+[2026-09-19 09:09:29]     Senior Quantum Control Engineer (Quantum Processor)
+[2026-09-19 09:09:29]     Draftsman & Design Development Coordinator
+[2026-09-19 09:09:29]     Senior Consultant Azure VDI
+[2026-09-19 09:09:29]     Head of AI – Space and Electronic
+[2026-09-19 09:09:29]     Founding Low-Level / Systems Engineer
+[2026-09-19 09:09:29]     Director, R&D Site Lead
+[2026-09-19 09:09:29]     Cluster Director of Engineering / Chief Engineer
+Rotana Hotel Management Corporation PJSC
+El 'Alamein, Matruh, Egypt
+3 weeks ago
+[2026-09-19 09:09:29]     Plant Nursery Biosecurity & Plant Health Manager
+[2026-09-19 09:09:29]     Process Quality Specialist
+[2026-09-19 09:09:29]     Site Engineer - KYME
+[2026-09-19 09:09:29]     Teknik Ofis Müdürü
+[2026-09-19 09:09:29]     Technical Interior Architect
+[2026-09-19 09:09:29]     Senior Infrastructure and Technology Engineer
+[2026-09-19 09:09:29]     Junior Unreal Engine Developer
+[2026-09-19 09:09:29]     Director & Manager Smart Plant
+[2026-09-19 09:09:29]     Art Director - Sand Loop
+[2026-09-19 09:09:29]     Engineering Associate Electrician
+[2026-09-19 09:09:29]     Studio Lead
+[2026-09-19 09:09:33]   Searching: 'data center' in Middle East...
+[2026-09-19 09:09:38]     Found 61 jobs
+[2026-09-19 09:09:38]     AI Datacenter infrastructure Project Technical Head – HUMAIN Program
+[2026-09-19 09:09:38]     Project Director
+[2026-09-19 09:09:38]     Manager - Treasury
+[2026-09-19 09:09:38]     Lead Mechanical Engineer – Mission Critical (Data Centres)
+[2026-09-19 09:09:38]     Lead Power Systems Engineer - Data Centres
+[2026-09-19 09:09:38]     Mechanical Engineer (Data Center Exp)
+[2026-09-19 09:09:38]     Senior Project Manager
+[2026-09-19 09:09:38]     Solution Architect Data Centre Infrastructure
+[2026-09-19 09:09:38]     Project Director - Data Centre
+[2026-09-19 09:09:38]     Mechanical Technical Director – Mission Critical (Data Centres)
+[2026-09-19 09:09:38]     Global Principal Mechanical Design Engineer - Data Center Segment
+[2026-09-19 09:09:38]     Strategic Key Accounts Manager - Data Center Engineer
+[2026-09-19 09:09:38]     Data Center Project Manager, Critical Projects Implementation Team
+[2026-09-19 09:09:38]     Solution Architect Data Centre Infrastructure
+[2026-09-19 09:09:38]     Data Center Planner
+[2026-09-19 09:09:38]     Data Center Engineer/Technician, Data Center Operations (DCO), AWS
+[2026-09-19 09:09:38]     Senior Data Center Engineer
+[2026-09-19 09:09:38]     Project Director for Data Center
+[2026-09-19 09:09:38]     Data Center Automation Engineer
+[2026-09-19 09:09:38]     MEP Project Manager
+[2026-09-19 09:09:38]     Project Director - Data Centre
+[2026-09-19 09:09:38]     Data Center Technical Expert (Electrical)
+[2026-09-19 09:09:38]     Director, Enterprise PMO Infrastructure
+[2026-09-19 09:09:38]     EPC Director
+[2026-09-19 09:09:38]     Senior Project Manager – Technical Facilities
+[2026-09-19 09:09:38]     Site Program Leader - Data Center
+[2026-09-19 09:09:38]     AI Data Center Infrastructure – Project Technical Head
+[2026-09-19 09:09:38]     Technical Project Manager, Data Center Operations
+[2026-09-19 09:09:38]     Operations Engineer
+[2026-09-19 09:09:38]     Technical Director - Data Centre
+[2026-09-19 09:09:38]     Data Center Manager
+[2026-09-19 09:09:38]     Infrastructure Team Manager
+[2026-09-19 09:09:38]     Data Center BAS Operator
+[2026-09-19 09:09:38]     Technical Sales Specialist - Gulf
+[2026-09-19 09:09:38]     Client Account Manager
+[2026-09-19 09:09:38]     Data Center Technician III
+[2026-09-19 09:09:38]     Project Manager
+[2026-09-19 09:09:38]     Senior Mechanical Design Engineer
+[2026-09-19 09:09:38]     Data Center Design Engineer
+[2026-09-19 09:09:38]     Data Center Technicians
+[2026-09-19 09:09:38]     Gleeds UAE Future Data Centre opportunities
+[2026-09-19 09:09:38]     Data Center Technician & NOC Operator – Defense Company, Jerusalem Non-Shift Position
+[2026-09-19 09:09:38]     Business Development Manager
+[2026-09-19 09:09:38]     Technical Project Manager (Data Center)
+[2026-09-19 09:09:38]     Enterprise Marketing Manager – Middle East & Africa (MEA)
+[2026-09-19 09:09:38]     Cost Manager (MEP) - Data Centre
+[2026-09-19 09:09:38]     Principal Electrical Design Engineer | Data Centres
+[2026-09-19 09:09:38]     Data Centre Senior Design Manager (Mechanical/Electrical Engineer)
+[2026-09-19 09:09:38]     Technical Director – Data Centres & Mission Critical (Electrical)
+[2026-09-19 09:09:38]     Associate - Project Manager Data Centre
+[2026-09-19 09:09:38]     Senior Data Center Technician
+[2026-09-19 09:09:38]     Sales Account Manager
+[2026-09-19 09:09:38]     Data Center Solution Architect – Presales (Senior)
+[2026-09-19 09:09:38]     MEP Design Manager – Data Centres
+[2026-09-19 09:09:38]     Channel Account Manager- HPE Servers, Storage and Services
+[2026-09-19 09:09:38]     Sr. Sales Account Manager - HPE
+[2026-09-19 09:09:38]     Business Development Manager - Vertiv
+[2026-09-19 09:09:38]     Senior Storage Lead – Enterprise Infrastructure
+[2026-09-19 09:09:38]     Data Center Operations Director
+[2026-09-19 09:09:38]     ELECTRICAL COMMISSIONING ENGINEER (DATA CENTER)
+[2026-09-19 09:09:38]     AI Datacenter infrastructure Project Technical Head – HUMAIN Program
+[2026-09-19 09:09:42]   Searching: 'oil gas' in Middle East...
+[2026-09-19 09:09:47]     Found 61 jobs
+[2026-09-19 09:09:47]     SR. DRILLING ENGINEER
+[2026-09-19 09:09:47]     PRINCIPAL DRILLING ENGINEER
+[2026-09-19 09:09:47]     Senior HR Analyst
+[2026-09-19 09:09:47]     Vice President Project Delivery
+[2026-09-19 09:09:47]     Onshore Emergency Coordinator
+[2026-09-19 09:09:47]     Senior Process Safety & Risk Engineer
+[2026-09-19 09:09:47]     Drilling Solution Engineer
+[2026-09-19 09:09:47]     Operator, Shop-Explosive
+[2026-09-19 09:09:47]     Lead PSM Specialist
+[2026-09-19 09:09:47]     Graduate Mechanical Engineer
+[2026-09-19 09:09:47]     Geophysicist Advisor - Egypt
+[2026-09-19 09:09:47]     Reservoir Geologist
+[2026-09-19 09:09:47]     Field Specialist – Drilling & Completion Fluids
+[2026-09-19 09:09:47]     Commissioning Engineer - Offshore
+[2026-09-19 09:09:47]     Drilling Engineer
+[2026-09-19 09:09:47]     Project Engineer / Operations Lead (Drilling Fluids) (Oil & Gas) (Oilfield Services)
+[2026-09-19 09:09:47]     Senior Pipeline Engineer (Offshore)
+[2026-09-19 09:09:47]     Specialist Process Safety Engineer
+[2026-09-19 09:09:47]     Senior Recruitment Consultant - Oil and Gas
+[2026-09-19 09:09:47]     Planning Engineer – Oil & Gas
+[2026-09-19 09:09:47]     Engineer - Design
+[2026-09-19 09:09:47]     Wells Operation Manager
+[2026-09-19 09:09:47]     Well site supervisor
+[2026-09-19 09:09:47]     Senior Business Development Manager – Oil & Gas / Oilfield Equipment
+[2026-09-19 09:09:47]     Human Resources Manager
+[2026-09-19 09:09:47]     E&P Senior Legal Counsel
+[2026-09-19 09:09:47]     P&C Senior Partner
+[2026-09-19 09:09:47]     Drilling Engineer
+[2026-09-19 09:09:47]     Principal Safety Engineer - Offshore (Detailed Engineering)
+[2026-09-19 09:09:47]     HSE Specialist
+[2026-09-19 09:09:47]     Drilling Engineer (Muscat, Oman)
+[2026-09-19 09:09:47]     Field Specialist – Drilling Optimization Engineer
+[2026-09-19 09:09:47]     Principal Security Design Consultant — Energy (O&G) & Critical National Infrastructure
+[2026-09-19 09:09:47]     Maintenance Junior Technician
+[2026-09-19 09:09:47]     Lead Planning- Turnaround / Shutdown Projects
+[2026-09-19 09:09:47]     Lead Design Engineer, Instrumentation & Automation (Offshore)
+[2026-09-19 09:09:47]     Org Development & Workforce Planning Specialist.Organizational Effectiveness & Total Rewards
+[2026-09-19 09:09:47]     Org Development & Workforce Planning Specialist.Organizational Effectiveness & Total Rewards
+[2026-09-19 09:09:47]     Process Engineering Specialist - I&SRU
+[2026-09-19 09:09:47]     QA QC Inspector
+[2026-09-19 09:09:47]     HSES Specialist
+[2026-09-19 09:09:47]     Lead Pipeline Designer
+[2026-09-19 09:09:47]     FIELD.HSE SUPERVISOR
+[2026-09-19 09:09:47]     Tubing Conveyed Perforating Specialist - Wireline Services
+[2026-09-19 09:09:47]     Human Resources Director - Energy
+Energy
+Doha, Qatar
+1 day ago
+[2026-09-19 09:09:47]     CAD Technician
+[2026-09-19 09:09:47]     Interface Manager
+[2026-09-19 09:09:47]     Sr. Expert / Advisor - EC Upstream
+[2026-09-19 09:09:47]     Data Entry Clerk
+[2026-09-19 09:09:47]     Sr. Expert / Advisor - EC Midstream
+[2026-09-19 09:09:47]     Senior Pipelines Engineer
+[2026-09-19 09:09:47]     HR Analyst
+[2026-09-19 09:09:47]     Lead Engineer – Rotating and Packages
+[2026-09-19 09:09:47]     Principal Advisor - HSSE
+[2026-09-19 09:09:47]     Laboratory Specialist
+[2026-09-19 09:09:47]     Subsea SWAT Engineer
+[2026-09-19 09:09:47]     Engineering Manager
+[2026-09-19 09:09:47]     Specialist, Operating Integrity
+[2026-09-19 09:09:47]     Specialist, Drilling (Cementing II)
+[2026-09-19 09:09:47]     Junior Sales Engineer
+[2026-09-19 09:09:47]     SR. DRILLING ENGINEER
+[2026-09-19 09:09:50]   Searching: 'automation engineer' in Sudan...
+[2026-09-19 09:10:17]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=automation%20engineer&location=Sudan&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 09:10:20]   Searching: 'electrical engineer' in Sudan...
+[2026-09-19 09:10:20]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=electrical%20engineer&location=Sudan&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 09:10:24]   Searching: 'instrumentation' in Middle East...
+[2026-09-19 09:10:24]     Error: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/jobs/search/?keywords=instrumentation&location=Middle%20East&f_TPR=r2592000", waiting until "domcontentloaded"
+
+[2026-09-19 09:10:28] 
+[Agent 1] Fetching details for 5 relevant...
+[2026-09-19 09:10:28]   [1] Service Technician...
+[2026-09-19 09:10:28]   Retry 1/3: Page.goto: Page crashed
+Call log:
+  - navigating to "https://sd.linkedin.com/jobs/view/service-technician-at-dal-group-engineering-division-ded-4466289776?position=14&pageNum=0&refId=2wCs1WeUY0e90XxuItzUqQ%3D%3D&trackingId=NRO%2B%2B3kmsNEwhYhIC0%2BYHA%3D%3D", waiting until "domcontentloaded"
+ — 5s
+[2026-09-19 09:28:12] ==================================================
+[2026-09-19 09:28:12] LinkedIn Scraper v3 — CDP + Stealth + Export + Dashboard
+[2026-09-19 09:28:12] ==================================================
+[2026-09-19 09:28:12] Session age: 999.0h
+[2026-09-19 09:28:12] Searches: 15 | Agents: 1
+[2026-09-19 09:28:12] [Agent 1] Starting — 15 searches
+[2026-09-19 09:28:12] [Agent 1] Stealth: ON
+[2026-09-19 09:28:12] [Agent 1] Resuming — 12 done
+[2026-09-19 09:28:12] [Agent 1] Trying CDP...
+[2026-09-19 09:28:17] [Agent 1] CDP down, launching browser
+[2026-09-19 09:28:18] [Agent 1] Session loaded (8 cookies, 999.0h)
+[2026-09-19 09:28:44] [Agent 1] Session refreshed
+[2026-09-19 09:28:44]   Skipping completed: 'PLC programming'
+[2026-09-19 09:28:44]   Skipping completed: 'embedded systems'
+[2026-09-19 09:28:44]   Skipping completed: 'classic control'
+[2026-09-19 09:28:44]   Skipping completed: 'microcontrollers'
+[2026-09-19 09:28:44]   Skipping completed: 'electrical control engineer'
+[2026-09-19 09:28:44]   Skipping completed: 'industrial automation'
+[2026-09-19 09:28:44]   Skipping completed: 'control systems'
+[2026-09-19 09:28:44]   Skipping completed: 'SCADA'
+[2026-09-19 09:28:44]   Skipping completed: 'TIA Portal'
+[2026-09-19 09:28:44]   Skipping completed: 'Studio 5000'
+[2026-09-19 09:28:44]   Skipping completed: 'data center'
+[2026-09-19 09:28:44]   Skipping completed: 'oil gas'
+[2026-09-19 09:28:44]   Searching: 'automation engineer' in Sudan...
+[2026-09-19 09:28:48]     Found 0 jobs
+[2026-09-19 09:28:51]   Searching: 'electrical engineer' in Sudan...
+[2026-09-19 09:28:56]     Found 3 jobs
+[2026-09-19 09:28:56]     Service Technician
+[2026-09-19 09:28:56]     Aviation Specialist
+[2026-09-19 09:28:56]     Service Technician
+[2026-09-19 09:28:59]   Searching: 'instrumentation' in Middle East...
+[2026-09-19 09:29:03]     Found 61 jobs
+[2026-09-19 09:29:03]     Senior Instrumentation Engineer
+[2026-09-19 09:29:03]     Senior Instrumentation Engineer
+[2026-09-19 09:29:03]     E & I Engineer
+[2026-09-19 09:29:03]     GEN. INSTRUMENT TECHNICIAN II
+[2026-09-19 09:29:03]     PMC Lead Instrumentation and Control Engineer
+[2026-09-19 09:29:03]     Senior Instrumentation Engineer (Offshore)
+[2026-09-19 09:29:03]     Analyzer Technician
+[2026-09-19 09:29:03]     Instrument & Control Technician
+[2026-09-19 09:29:03]     PMC Senior Instrumentation & Control Engineer
+[2026-09-19 09:29:03]     Instrumentation Technician
+[2026-09-19 09:29:03]     Analyzer Engineer
+[2026-09-19 09:29:03]     Instrumentation and Electrical Technician - Tamar
+[2026-09-19 09:29:03]     Senior Instrumentation Engineer
+[2026-09-19 09:29:03]     Calibration Technician - Jeddah
+[2026-09-19 09:29:03]     Field Service Engineer
+[2026-09-19 09:29:03]     Analyzer Engineer
+[2026-09-19 09:29:03]     Lead Instrumentation and Control Engineer
+[2026-09-19 09:29:03]     Lead Instrumentation and Control Engineer - Greenfield
+[2026-09-19 09:29:03]     Instrumentation Engineer
+[2026-09-19 09:29:03]     Technician IV, Analyzer Job
+[2026-09-19 09:29:03]     Instrumentation Engineer
+[2026-09-19 09:29:03]     Team Leader Instrument and Control Engineer
+[2026-09-19 09:29:03]     Instrumentation Engineer
+[2026-09-19 09:29:03]     Field Service Engineer - Instrumentation & Controls (Mark VIe/Mark VI/ Mark V)
+[2026-09-19 09:29:03]     Senior Instrumentation Control Engineer
+[2026-09-19 09:29:03]     Principal Instrumentation Designer
+[2026-09-19 09:29:03]     Associate Engineer - ASI (Bahraini National)
+[2026-09-19 09:29:03]     Laboratory Technician
+[2026-09-19 09:29:03]     Commissioning Instrument & Control Specialist - Granulation
+[2026-09-19 09:29:03]     TECHNICIAN - ANALYZERS
+[2026-09-19 09:29:03]     Senior Instrumentation & Control Engineer(System)
+[2026-09-19 09:29:03]     Field Service Engineer - Instrumentation & Controls (Mark VIe/Mark VI/ Mark V) (IRAQ Nationality Only)
+[2026-09-19 09:29:03]     Senior Instrument Technician
+[2026-09-19 09:29:03]     Instrumentation & Control Engineer
+[2026-09-19 09:29:03]     l&C Technicians
+[2026-09-19 09:29:03]     Instrumentation Engineer
+[2026-09-19 09:29:03]     Senior Instrumentation and Telecom Engineer
+[2026-09-19 09:29:03]     Lead Design Engineer, Instrumentation & Automation (Offshore)
+[2026-09-19 09:29:03]     Electrical and Instrumentation Engineer
+[2026-09-19 09:29:03]     Field Service Engineer
+[2026-09-19 09:29:03]     Kıdemli Elektrik ve Enstrümantasyon Mühendisi
+[2026-09-19 09:29:03]     Analytical Service Engineer
+[2026-09-19 09:29:03]     Sr. Inspector, Electrical (Instrumentation & Automation)
+[2026-09-19 09:29:03]     Senior Instrumentation Designer
+[2026-09-19 09:29:03]     Senior Design Instrumentation and Control Engineer - Ref MTYSHQ-34
+[2026-09-19 09:29:03]     Instrument & Controls Engineer - Cyber Coordination
+[2026-09-19 09:29:03]     Calibration Technician
+[2026-09-19 09:29:03]     Trainee Instrumentation Engineer (Emirati Hiring)
+[2026-09-19 09:29:03]     E&I Engineer / Supervisor
+[2026-09-19 09:29:03]     Electrical and Instrumentation Engineer
+[2026-09-19 09:29:03]     Electromechanical Technician
+[2026-09-19 09:29:03]     Instrumentation Foreman
+[2026-09-19 09:29:03]     Control Systems Engineer
+[2026-09-19 09:29:03]     Senior Engineer, I-C
+[2026-09-19 09:29:03]     Team Lead Instrumentation & Control
+[2026-09-19 09:29:03]     Trainee Engineer
+[2026-09-19 09:29:03]     QC inspector - Instrument - Project
+[2026-09-19 09:29:03]     I&C Technician
+[2026-09-19 09:29:03]     Calibration Manager
+[2026-09-19 09:29:03]     I&C / OT Maintenance Engineer
+[2026-09-19 09:29:03]     Senior Instrumentation Engineer
+[2026-09-19 09:29:07] 
+[Agent 1] Fetching details for 5 relevant...
+[2026-09-19 09:29:07]   [1] Service Technician...
+[2026-09-19 09:29:11]      Co: DAL GROUP ENGINEERING DIVISION (DED), Loc: Khartoum State, Sudan
+[2026-09-19 09:29:14]   [2] Service Technician...
+[2026-09-19 09:29:17]      Co: DAL GROUP ENGINEERING DIVISION (DED), Loc: Khartoum State, Sudan
+[2026-09-19 09:29:19]   [3] Senior Instrumentation Engineer...
+[2026-09-19 09:29:23]      Co: Worley, Loc: Sohar, Al Batinah North Governorate, Oman
+[2026-09-19 09:29:25]   [4] Senior Instrumentation Engineer...
+[2026-09-19 09:29:34]      Co: Worley, Loc: Doha, Doha, Qatar
+[2026-09-19 09:29:35]   [5] E & I Engineer...
+[2026-09-19 09:29:39]      Co: Emerson, Loc: Dubai, Dubai, United Arab Emirates
+[2026-09-19 09:29:42] 
+[Agent 1] Done — 64 total, 61 relevant
+[2026-09-19 09:29:42] CSV: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_092942.csv
+[2026-09-19 09:29:42] Excel: C:\Users\Tensaisan\linkedin_results\linkedin_jobs_20260919_092942.xlsx
+[2026-09-19 09:29:42] Dashboard: C:/Users/Tensaisan/linkedin_results/dashboard.html
+[2026-09-19 09:29:42] 
+==================================================
+[2026-09-19 09:29:42] Total: 64 | Relevant: 61
+[2026-09-19 09:29:42]   [electrical engineer] Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Khartoum State, Sudan)
+[2026-09-19 09:29:42]   [electrical engineer] Service Technician @ DAL GROUP ENGINEERING DIVISION (DED) (Khartoum State, Sudan)
+[2026-09-19 09:29:42]   [instrumentation] Senior Instrumentation Engineer @ Worley (Sohar, Al Batinah North Governorate, Oman)
+[2026-09-19 09:29:42]   [instrumentation] Senior Instrumentation Engineer @ Worley (Doha, Doha, Qatar)
+[2026-09-19 09:29:42]   [instrumentation] E & I Engineer @ Emerson (Dubai, Dubai, United Arab Emirates)
+[2026-09-19 09:29:42]   [instrumentation] GEN. INSTRUMENT TECHNICIAN II @  ()
+[2026-09-19 09:29:42]   [instrumentation] PMC Lead Instrumentation and Control Engineer @  ()
+[2026-09-19 09:29:42]   [instrumentation] Senior Instrumentation Engineer (Offshore) @  ()
+[2026-09-19 09:29:42]   [instrumentation] Analyzer Technician @  ()
+[2026-09-19 09:29:42]   [instrumentation] Instrument & Control Technician @  ()
+[2026-09-19 09:29:42]   [instrumentation] PMC Senior Instrumentation & Control Engineer @  ()
+[2026-09-19 09:29:42]   [instrumentation] Instrumentation Technician @  ()
+[2026-09-19 09:29:42]   [instrumentation] Analyzer Engineer @  ()
+[2026-09-19 09:29:42]   [instrumentation] Instrumentation and Electrical Technician - Tamar @  ()
+[2026-09-19 09:29:42]   [instrumentation] Senior Instrumentation Engineer @  ()

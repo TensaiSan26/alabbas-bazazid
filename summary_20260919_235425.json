@@ -1,0 +1,20 @@
+{
+  "timestamp": "20260919_235425",
+  "profile": {
+    "name": "",
+    "headline": "",
+    "location": "",
+    "experience_count": 0,
+    "education_count": 0,
+    "skills_count": 0
+  },
+  "job_summary": {
+    "total_jobs": 236,
+    "unique_companies": 55,
+    "queries": 18
+  },
+  "files": {
+    "profile": "C:/Users/Tensaisan/linkedin_results\\profile_20260919_235425.json",
+    "jobs": "C:/Users/Tensaisan/linkedin_results\\jobs_20260919_235425.json"
+  }
+}

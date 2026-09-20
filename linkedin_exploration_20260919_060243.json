@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-09-19T06:02:04.694454",
+  "companies": [
+    {
+      "slug": "sudaness-college",
+      "posts": [],
+      "info": {},
+      "error": "Page.goto: Target page, context or browser has been closed",
+      "focus": [
+        "posts",
+        "jobs",
+        "about"
+      ]
+    },
+    {
+      "slug": "sudan-education",
+      "posts": [],
+      "info": {},
+      "error": "Page.goto: Target page, context or browser has been closed",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "kassala-university",
+      "posts": [],
+      "info": {},
+      "error": "Page.goto: Target page, context or browser has been closed",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "University-of-Khartoum",
+      "posts": [],
+      "info": {},
+      "error": "Page.goto: Target page, context or browser has been closed",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "query": "control systems",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "PLC",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "SCADA",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "MATLAB",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "data center",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "industrial automation",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "oil gas",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "TIA Portal",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "Studio 5000",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    }
+  ],
+  "profiles": [
+    {
+      "query": "junior control systems engineer Sudan",
+      "profiles": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "control systems engineer Middle East remote",
+      "profiles": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "PLC programmer Sudan",
+      "profiles": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    },
+    {
+      "query": "automation engineer Sudan",
+      "profiles": [],
+      "error": "Page.goto: Target page, context or browser has been closed"
+    }
+  ]
+}

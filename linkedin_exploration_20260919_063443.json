@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-09-19T06:25:27.874957",
+  "companies": [
+    {
+      "slug": "sudaness-college",
+      "posts": [
+        "Internship\n                \n                \n                    Filter by Internship\n                \n              \n            \n          \n          \n            \n            \n              \n                \n                  Entry level\n                \n                \n                    Filter by Entry level\n                \n              \n            \n          \n          \n            \n            \n              \n                \n                  Associate\n                \n                \n                    Filter by Associate\n                \n              \n            \n          \n          \n            \n            \n              \n                \n                  Mid-Senior level\n                \n                \n                    Filter by Mid-Senior level\n                \n              \n            \n          \n          \n            \n            \n              \n                \n                  Director\n                \n                \n                    Filter by Director\n                \n              \n            \n          \n          \n            \n            \n              \n                \n                  Executive\n                \n                \n                    Filter by Executive",
+        "No matching jobs found.\n        \n        \n          Please make sure your keywords are spelled correctly.\n        \n\n          \n            \n                Search all “Studio 5000” jobs worldwide"
+      ],
+      "info": {},
+      "error": null,
+      "focus": [
+        "posts",
+        "jobs",
+        "about"
+      ]
+    },
+    {
+      "slug": "sudan-education",
+      "posts": [],
+      "info": {},
+      "error": null,
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "kassala-university",
+      "posts": [],
+      "info": {},
+      "error": null,
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "University-of-Khartoum",
+      "posts": [],
+      "info": {},
+      "error": null,
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "query": "control systems",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "PLC",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "SCADA",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "MATLAB",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "data center",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "industrial automation",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "oil gas",
+      "location": "Sudan",
+      "jobs": [],
+      "error": null
+    },
+    {
+      "query": "TIA Portal",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: net::ERR_ABORTED at https://www.linkedin.com/jobs/search/?keywords=TIA%20Portal&location=Sudan&remote=true\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search/?keywords=TIA%20Portal&location=Sudan&remote=true\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "Studio 5000",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Page.goto: net::ERR_ABORTED at https://www.linkedin.com/jobs/search/?keywords=Studio%205000&location=Sudan&remote=true\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search/?keywords=Studio%205000&location=Sudan&remote=true\", waiting until \"domcontentloaded\"\n"
+    }
+  ],
+  "profiles": [
+    {
+      "query": "junior control systems engineer Sudan",
+      "profiles": [],
+      "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linkedin.com/search/results/people/?keywords=junior%20control%20systems%20engineer%20Sudan\nCall log:\n  - navigating to \"https://www.linkedin.com/search/results/people/?keywords=junior%20control%20systems%20engineer%20Sudan\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "control systems engineer Middle East remote",
+      "profiles": [],
+      "error": "Page.goto: Navigation to \"https://www.linkedin.com/search/results/people/?keywords=control%20systems%20engineer%20Middle%20East%20remote\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.linkedin.com/search/results/people/?keywords=control%20systems%20engineer%20Middle%20East%20remote\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "PLC programmer Sudan",
+      "profiles": [],
+      "error": "Page.goto: Navigation to \"https://www.linkedin.com/search/results/people/?keywords=PLC%20programmer%20Sudan\" is interrupted by another navigation to \"https://www.linkedin.com/search/results/people/?keywords=control%20systems%20engineer%20Middle%20East%20remote\"\nCall log:\n  - navigating to \"https://www.linkedin.com/search/results/people/?keywords=PLC%20programmer%20Sudan\", waiting until \"domcontentloaded\"\n"
+    },
+    {
+      "query": "automation engineer Sudan",
+      "profiles": [],
+      "error": "Page.goto: Navigation to \"https://www.linkedin.com/search/results/people/?keywords=automation%20engineer%20Sudan\" is interrupted by another navigation to \"https://www.linkedin.com/search/results/people/?keywords=PLC%20programmer%20Sudan\"\nCall log:\n  - navigating to \"https://www.linkedin.com/search/results/people/?keywords=automation%20engineer%20Sudan\", waiting until \"domcontentloaded\"\n"
+    }
+  ]
+}

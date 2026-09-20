@@ -1,0 +1,353 @@
+{
+  "profileView": {
+    "data": {
+      "status": 410
+    },
+    "included": []
+  },
+  "contactInfo": {
+    "data": {
+      "status": 410
+    },
+    "included": []
+  },
+  "about": {
+    "status": 404
+  },
+  "education": {
+    "status": 404
+  },
+  "skills": {
+    "data": {
+      "status": 410
+    },
+    "included": []
+  },
+  "positions": {
+    "data": {
+      "status": 410
+    },
+    "included": []
+  },
+  "certifications": {
+    "data": {
+      "entityUrn": "urn:li:collectionResponse:7sVegxGIGwvRtA1I6hHW9cTkK/Hd9QLRaxR+ZL4vq74=",
+      "paging": {
+        "count": 20,
+        "start": 0,
+        "total": 7,
+        "links": []
+      },
+      "*elements": [
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,419502212)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,419317745)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,316298710)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1329369543)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1775836966)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,2130985378)",
+        "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1072802049)"
+      ],
+      "$type": "com.linkedin.restli.common.CollectionResponse"
+    },
+    "included": [
+      {
+        "objectUrn": "urn:li:company:2453129",
+        "entityUrn": "urn:li:fs_miniCompany:2453129",
+        "name": "Coursera",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQGexnfBxeEG-g",
+          "isStandardDynamicRangeEnforced": true,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1791417600&v=beta&t=5uHt3MRjw1XvCoCapfV-p_kE5tC_rc43v11FS-BOLoA",
+              "expiresAt": 1791417600000,
+              "height": 200,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1630530042036/coursera_logo?e=1791417600&v=beta&t=MG79ekq2MrPE2e7SqcqChz1TzEk2Y9ZyasYmddxzNC8",
+              "expiresAt": 1791417600000,
+              "height": 100,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1791417600&v=beta&t=udQuELoL4yHxwE_NWOtYd2Iu6QbcHDm0htilGAdrXg8",
+              "expiresAt": 1791417600000,
+              "height": 400,
+              "$type": "com.linkedin.common.VectorArtifact"
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+        },
+        "universalName": "coursera",
+        "dashCompanyUrn": "urn:li:fsd_company:2453129",
+        "trackingId": "wYhIY4J7RhuCKofz5/ScLQ==",
+        "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+      },
+      {
+        "objectUrn": "urn:li:company:3771",
+        "entityUrn": "urn:li:fs_miniCompany:3771",
+        "name": "University of Colorado Boulder",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQGueVr_GgFPZg",
+          "isStandardDynamicRangeEnforced": true,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631322902142?e=1791417600&v=beta&t=OcQFa-C2cSwGO_r-SGG1QkWzNPqfDI-vVOtmRvsCAbs",
+              "expiresAt": 1791417600000,
+              "height": 200,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631322902142?e=1791417600&v=beta&t=2vIT-PSiU7kXm1fp9XaIHlj55EK5TBe3sNcqbgbBEU0",
+              "expiresAt": 1791417600000,
+              "height": 100,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631322902142?e=1791417600&v=beta&t=o4_Ln1Ysu3MmzuiAJ2BUOeuX2RfM7m9uGMDOytnG1DQ",
+              "expiresAt": 1791417600000,
+              "height": 400,
+              "$type": "com.linkedin.common.VectorArtifact"
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C560BAQGueVr_GgFPZg/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+        },
+        "universalName": "cuboulder",
+        "dashCompanyUrn": "urn:li:fsd_company:3771",
+        "trackingId": "nqCvtMPqTsCIxEWKmzEQFQ==",
+        "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+      },
+      {
+        "objectUrn": "urn:li:company:24630",
+        "entityUrn": "urn:li:fs_miniCompany:24630",
+        "name": "Packt",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4E0BAQHQJ2HdIyeLWg",
+          "isStandardDynamicRangeEnforced": true,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1653389017535/packt_publishing_logo?e=1791417600&v=beta&t=PQcUmY8LLHh08B0bEhQ9Kt8ZIY41wFKm5un5GOSCi5c",
+              "expiresAt": 1791417600000,
+              "height": 200,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1653389017535/packt_publishing_logo?e=1791417600&v=beta&t=OfGxoF2RM4bEgTJV0aJbgCcwVi04o7NU2zZHw7Yf3Rw",
+              "expiresAt": 1791417600000,
+              "height": 100,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1653389017535/packt_publishing_logo?e=1791417600&v=beta&t=hbdKuyLTbD44MzIc0ma1GxYCPF5no0mq7oVNairCZbQ",
+              "expiresAt": 1791417600000,
+              "height": 400,
+              "$type": "com.linkedin.common.VectorArtifact"
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQHQJ2HdIyeLWg/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+        },
+        "universalName": "packt-publishing",
+        "dashCompanyUrn": "urn:li:fsd_company:24630",
+        "trackingId": "ib5Z9Q0pTKqbZs7DknDwKA==",
+        "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+      },
+      {
+        "objectUrn": "urn:li:company:946029",
+        "entityUrn": "urn:li:fs_miniCompany:946029",
+        "name": "EDUCBA",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "digitalmediaAsset": "urn:li:digitalmediaAsset:C4D0BAQF3NvcCYJN__w",
+          "isStandardDynamicRangeEnforced": true,
+          "artifacts": [
+            {
+              "width": 200,
+              "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1658228765458/corporate_bridge_academy_logo?e=1791417600&v=beta&t=OUMf17BZDnexDlJOewLjWXdj1fw7mnMZXrCw72OjBpI",
+              "expiresAt": 1791417600000,
+              "height": 200,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 100,
+              "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1658228765458/corporate_bridge_academy_logo?e=1791417600&v=beta&t=lXiWkoiXY-mebOWAMwKu79WumS4xwX1klPfBorE6xEk",
+              "expiresAt": 1791417600000,
+              "height": 100,
+              "$type": "com.linkedin.common.VectorArtifact"
+            },
+            {
+              "width": 400,
+              "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1658228765458/corporate_bridge_academy_logo?e=1791417600&v=beta&t=XjZJnquBa_sNnmpiqvvwfyJ8dzNOajPqAbMXbzlMzT4",
+              "expiresAt": 1791417600000,
+              "height": 400,
+              "$type": "com.linkedin.common.VectorArtifact"
+            }
+          ],
+          "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQF3NvcCYJN__w/company-logo_",
+          "$type": "com.linkedin.common.VectorImage"
+        },
+        "universalName": "corporate-bridge-academy",
+        "dashCompanyUrn": "urn:li:fsd_company:946029",
+        "trackingId": "T7v+8GutQ9+oiyKmgWwMzg==",
+        "$type": "com.linkedin.voyager.entities.shared.MiniCompany"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,419502212)",
+        "authority": "Packt",
+        "name": "Advanced Programming, Control, and Monitoring Systems",
+        "timePeriod": {
+          "startDate": {
+            "month": 5,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "76SKGFMENI2W",
+        "*company": "urn:li:fs_miniCompany:24630",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:24630",
+        "url": "https://www.coursera.org/account/accomplishments/records/76SKGFMENI2W",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,2130985378)",
+        "authority": "University of Colorado Boulder",
+        "name": "Control Systems Analysis: Modeling of Dynamic Systems",
+        "timePeriod": {
+          "startDate": {
+            "month": 3,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "L3E0ZYWIELY8",
+        "*company": "urn:li:fs_miniCompany:3771",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:3771",
+        "url": "https://www.coursera.org/account/accomplishments/verify/L3E0ZYWIELY8",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1329369543)",
+        "authority": "Packt",
+        "name": "Siemens PLC and TIA Portal Essentials",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "8772I8GPFR4L",
+        "*company": "urn:li:fs_miniCompany:24630",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:24630",
+        "url": "https://www.coursera.org/account/accomplishments/records/8772I8GPFR4L",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,419317745)",
+        "authority": "Packt",
+        "name": "Learn PLC and HMI from Scratch (Basic)",
+        "timePeriod": {
+          "startDate": {
+            "month": 5,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "EXZUDDVOBA2K",
+        "*company": "urn:li:fs_miniCompany:24630",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:24630",
+        "url": "https://www.coursera.org/account/accomplishments/specialization/EXZUDDVOBA2K",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,316298710)",
+        "authority": "Packt",
+        "name": "HMI Design and Intermediate PLC Programming",
+        "timePeriod": {
+          "startDate": {
+            "month": 4,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "YRWR2RKYV4QK",
+        "*company": "urn:li:fs_miniCompany:24630",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:24630",
+        "url": "https://www.coursera.org/account/accomplishments/records/YRWR2RKYV4QK",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1072802049)",
+        "authority": "Coursera",
+        "name": "Introduction to OSHA: Safety Standards and Compliance",
+        "timePeriod": {
+          "endDate": {
+            "month": 2,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "startDate": {
+            "month": 1,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": null,
+        "*company": "urn:li:fs_miniCompany:2453129",
+        "displaySource": null,
+        "companyUrn": "urn:li:fs_miniCompany:2453129",
+        "url": null,
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      },
+      {
+        "entityUrn": "urn:li:fs_certification:(ACoAAEaRt4kBTDgHLKhH60lts32NkDOFdsXu40I,1775836966)",
+        "authority": "EDUCBA",
+        "name": "Analyze & Design Electrical Load Plans with AutoCAD",
+        "timePeriod": {
+          "startDate": {
+            "month": 3,
+            "year": 2026,
+            "$type": "com.linkedin.common.Date"
+          },
+          "$type": "com.linkedin.voyager.common.DateRange"
+        },
+        "licenseNumber": "FFN6FS2GBOQA",
+        "*company": "urn:li:fs_miniCompany:946029",
+        "displaySource": "coursera.org",
+        "companyUrn": "urn:li:fs_miniCompany:946029",
+        "url": "https://www.coursera.org/account/accomplishments/records/FFN6FS2GBOQA",
+        "$type": "com.linkedin.voyager.identity.profile.Certification"
+      }
+    ]
+  }
+}

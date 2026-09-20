@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-09-19T06:50:34.451798",
+  "companies": [
+    {
+      "slug": "sudaness-college",
+      "posts": [
+        "Pagina non trovata\n              Non abbiamo trovato la pagina che stai cercando. Prova a tornare alla pagina precedente o visita il nostro Centro assistenza per saperne di più.\n              Vai al tuo feed"
+      ],
+      "info": {
+        "name": "لم يتم العثور على الصفحة"
+      },
+      "error": null,
+      "focus": [
+        "posts",
+        "jobs",
+        "about"
+      ]
+    },
+    {
+      "slug": "sudan-education",
+      "posts": [],
+      "info": {},
+      "error": "Login wall",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "kassala-university",
+      "posts": [],
+      "info": {},
+      "error": "Login wall",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    },
+    {
+      "slug": "University-of-Khartoum",
+      "posts": [],
+      "info": {},
+      "error": "Login wall",
+      "focus": [
+        "posts",
+        "jobs"
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "query": "control systems",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "PLC",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "SCADA",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "MATLAB",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "data center",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "industrial automation",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "oil gas",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "TIA Portal",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "Studio 5000",
+      "location": "Sudan",
+      "jobs": [],
+      "error": "Login wall"
+    }
+  ],
+  "profiles": [
+    {
+      "query": "junior control systems engineer Sudan",
+      "profiles": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "control systems engineer Middle East remote",
+      "profiles": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "PLC programmer Sudan",
+      "profiles": [],
+      "error": "Login wall"
+    },
+    {
+      "query": "automation engineer Sudan",
+      "profiles": [],
+      "error": "Login wall"
+    }
+  ]
+}

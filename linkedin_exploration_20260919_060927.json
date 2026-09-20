@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-09-19T05:59:24.717564",
+  "companies": {
+    "sudaness-college": {
+      "name": "Sudaness College",
+      "info": {},
+      "posts": []
+    },
+    "sudan-education": {
+      "name": "Sudan Education",
+      "info": {},
+      "posts": []
+    },
+    "kassala-university": {
+      "name": "Kassala University",
+      "info": {},
+      "posts": []
+    },
+    "University-of-Khartoum": {
+      "name": "University of Khartoum",
+      "info": {},
+      "posts": []
+    }
+  },
+  "jobs": [],
+  "skills_tools": {
+    "skills": [],
+    "tools": [],
+    "software": [],
+    "knowledge": [
+      {
+        "keyword": "oil gas",
+        "context": "control systems in Sudan\n34 results"
+      },
+      {
+        "keyword": "oil gas",
+        "context": "34 results"
+      },
+      {
+        "keyword": "oil gas",
+        "context": "Service Technician\nService Technician\nDAL GROUP ENGINEERING DIVISION (DED)\nKhartoum State, Sudan (On-site)\nViewed\nPromoted\nEasy Apply"
+      }
+    ]
+  }
+}

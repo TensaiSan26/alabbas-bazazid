@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-09-19T05:46:59.530716",
+  "companies": {
+    "sudaness-college": {
+      "name": "Sudaness College",
+      "info": {},
+      "posts": []
+    },
+    "sudan-education": {
+      "name": "Sudan Education",
+      "info": {},
+      "posts": []
+    },
+    "kassala-university": {
+      "name": "Kassala University",
+      "info": {},
+      "posts": []
+    },
+    "University-of-Khartoum": {
+      "name": "University of Khartoum",
+      "info": {},
+      "posts": []
+    }
+  },
+  "jobs": [],
+  "skills_tools": {
+    "skills": [],
+    "tools": [],
+    "software": [],
+    "knowledge": []
+  }
+}
