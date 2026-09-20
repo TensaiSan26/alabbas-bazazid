@@ -3,102 +3,53 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Control Systems Portfolio — Interactive Dashboard</title>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<title>Control Systems Portfolio — Smart Dashboard</title>
 <style>
-:root{--bg:#0f172a;--card:#1e293b;--accent:#3b82f6;--accent2:#10b981;--accent3:#f59e0b;--accent4:#8b5cf6;--text:#e2e8f0;--muted:#94a3b8;--border:#334155;--danger:#ef4444;--glow:0 0 20px rgba(59,130,246,0.3)}
+:root{--bg:#0f172a;--card:#1e293b;--accent:#3b82f6;--accent2:#10b981;--accent3:#f59e0b;--text:#e2e8f0;--muted:#94a3b8;--border:#334155}
 *{margin:0;padding:0;box-sizing:border-box}
-body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:20px;overflow-x:hidden}
-.container{max-width:1400px;margin:0 auto}
-h1{text-align:center;margin-bottom:8px;font-size:2.2rem;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
-.subtitle{text-align:center;color:var(--muted);margin-bottom:24px;font-size:0.95rem}
-.toast{position:fixed;top:20px;right:20px;background:var(--card);border:1px solid var(--accent2);border-radius:8px;padding:12px 20px;color:var(--accent2);font-size:0.85rem;z-index:1000;transform:translateX(400px);transition:transform 0.3s}
-.toast.show{transform:translateX(0)}
-.modal-overlay{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0.7);z-index:100;display:none;align-items:center;justify-content:center}
-.modal-overlay.show{display:flex}
-.modal{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:24px;max-width:600px;width:90%;max-height:80vh;overflow-y:auto}
-.modal h3{margin-bottom:12px;color:var(--accent)}
-.modal-close{float:right;background:none;border:none;color:var(--muted);font-size:1.5rem;cursor:pointer}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin-bottom:24px}
-.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;text-align:center;cursor:pointer;transition:all 0.3s;position:relative;overflow:hidden}
-.stat-card:hover{transform:translateY(-4px);box-shadow:var(--glow)}
-.stat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent)}
-.stat-card.green::before{background:var(--accent2)}
-.stat-card.yellow::before{background:var(--accent3)}
-.stat-card.purple::before{background:var(--accent4)}
-.stat-value{font-size:2.5rem;font-weight:700}
-.stat-card.blue .stat-value{color:var(--accent)}
-.stat-card.green .stat-value{color:var(--accent2)}
-.stat-card.yellow .stat-value{color:var(--accent3)}
-.stat-card.purple .stat-value{color:var(--accent4)}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:20px}
+.container{max-width:1200px;margin:0 auto}
+h1{text-align:center;margin-bottom:8px;font-size:2rem;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.subtitle{text-align:center;color:var(--muted);margin-bottom:24px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-bottom:24px}
+.stat-card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;text-align:center}
+.stat-value{font-size:2rem;font-weight:700;color:var(--accent)}
 .stat-label{color:var(--muted);font-size:0.85rem;margin-top:4px}
-.stat-change{font-size:0.7rem;color:var(--accent2);margin-top:4px}
-.progress-section{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:24px}
-.progress-header{display:flex;justify-content:space-between;margin-bottom:12px}
-.progress-ring{display:flex;align-items:center;gap:20px;justify-content:center}
-.ring{position:relative;width:120px;height:120px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:20px}
+.card h2{font-size:1.1rem;margin-bottom:12px}
+.ring{display:flex;align-items:center;justify-content:center;gap:20px;margin-bottom:16px}
 .ring svg{transform:rotate(-90deg)}
 .ring circle{fill:none;stroke-width:8}
 .ring .bg{stroke:var(--border)}
 .ring .fill{stroke:var(--accent);stroke-linecap:round;transition:stroke-dashoffset 1s}
 .ring-value{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center}
-.ring-value .num{font-size:1.8rem;font-weight:700;color:var(--accent)}
+.ring-value .num{font-size:1.5rem;font-weight:700;color:var(--accent)}
 .ring-value .lbl{font-size:0.7rem;color:var(--muted)}
-.progress-details{display:flex;gap:20px;flex-wrap:wrap;margin-top:16px}
-.progress-item{text-align:center}
-.progress-item .val{font-size:1.2rem;font-weight:600;color:var(--accent2)}
-.progress-item .lbl{font-size:0.75rem;color:var(--muted)}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px}
-@media(max-width:900px){.grid{grid-template-columns:1fr}}
-.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;transition:all 0.3s}
-.card:hover{border-color:var(--accent)}
-.card h2{font-size:1.1rem;margin-bottom:12px}
-.skill-category{margin-bottom:16px}
-.skill-category h3{font-size:0.85rem;color:var(--muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.5px}
-.skill-tags{display:flex;flex-wrap:wrap;gap:6px}
-.skill-tag{padding:5px 12px;border-radius:20px;font-size:0.75rem;font-weight:500;cursor:pointer;transition:all 0.2s}
-.skill-tag:hover{transform:scale(1.05)}
-.skill-tag.have{background:rgba(16,185,129,0.15);color:var(--accent2);border-color:rgba(16,185,129,0.3)}
-.skill-tag.gap{background:rgba(245,158,11,0.15);color:var(--accent3);border-color:rgba(245,158,11,0.3)}
-.skill-tag.future{background:rgba(148,163,184,0.15);color:var(--muted);border-color:rgba(148,163,184,0.3)}
-.timeline{position:relative;padding-left:24px}
-.timeline::before{content:'';position:absolute;left:8px;top:0;bottom:0;width:2px;background:var(--border)}
-.timeline-item{position:relative;margin-bottom:16px;padding-left:16px;cursor:pointer;transition:all 0.2s}
-.timeline-item::before{content:'';position:absolute;left:-20px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--border);border:2px solid var(--bg)}
-.timeline-item.done::before{background:var(--accent2)}
-.timeline-item.current::before{background:var(--accent);box-shadow:0 0 12px var(--accent)}
-.timeline-week{font-size:0.75rem;color:var(--accent);font-weight:600}
-.timeline-title{font-size:0.95rem;font-weight:500}
-.timeline-desc{font-size:0.8rem;color:var(--muted)}
-.project-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.project-card{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:14px;cursor:pointer;transition:all 0.3s}
-.project-card:hover{border-color:var(--accent);transform:translateY(-2px)}
-.project-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px}
-.project-card.p1::before{background:var(--accent)}
-.project-card.p2::before{background:var(--accent2)}
-.project-card.p3::before{background:var(--accent3)}
-.project-card.p4::before{background:var(--accent4)}
-.project-num{font-size:0.7rem;color:var(--muted);text-transform:uppercase}
-.project-title{font-size:0.95rem;font-weight:600;margin:4px 0}
-.project-tools{font-size:0.7rem;color:var(--accent);margin-bottom:4px}
-.project-weeks{font-size:0.7rem;color:var(--accent3)}
+.ring-wrap{position:relative;width:100px;height:100px}
 .checklist{list-style:none}
-.checklist li{padding:8px 0;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:10px;cursor:pointer}
+.checklist li{padding:10px 0;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:12px;cursor:pointer;transition:all 0.2s}
 .checklist li:last-child{border-bottom:none}
-.checklist input[type="checkbox"]{width:18px;height:18px;accent-color:var(--accent2);cursor:pointer}
-.checklist li.checked{color:var(--muted);text-decoration:line-through}
-.locations{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
-.location-tag{padding:4px 12px;border-radius:20px;font-size:0.8rem;background:rgba(59,130,246,0.2);color:var(--accent);border:1px solid rgba(59,130,246,0.3);cursor:pointer}
-.location-tag:hover{background:rgba(59,130,246,0.3)}
-.activity-feed{max-height:200px;overflow-y:auto}
-.activity-item{display:flex;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);font-size:0.8rem}
-.activity-item:last-child{border-bottom:none}
-.activity-icon{font-size:1rem}
-.activity-text{flex:1}
-.activity-time{color:var(--muted);font-size:0.7rem}
-.chart-container{position:relative;height:200px;margin-top:12px}
+.checklist li:hover{background:rgba(59,130,246,0.05)}
+.checklist input[type="checkbox"]{width:20px;height:20px;accent-color:var(--accent2);cursor:pointer}
+.checklist li.checked .task-name{text-decoration:line-through;color:var(--muted)}
+.task-name{flex:1}
+.task-status{font-size:0.7rem;padding:2px 8px;border-radius:10px}
+.task-status.done{background:rgba(16,185,129,0.2);color:var(--accent2)}
+.task-status.pending{background:rgba(245,158,11,0.2);color:var(--accent3)}
+.week-complete{display:none;text-align:center;padding:20px;background:rgba(16,185,129,0.1);border:1px solid var(--accent2);border-radius:12px;margin-top:16px}
+.week-complete.show{display:block}
+.week-complete h3{color:var(--accent2);margin-bottom:8px}
+.btn{background:var(--accent);color:white;border:none;border-radius:8px;padding:10px 20px;cursor:pointer;font-size:0.9rem;margin-top:8px}
+.btn:hover{background:#2563eb}
+.btn-success{background:var(--accent2)}
+.progress-bar{height:8px;background:var(--bg);border-radius:4px;overflow:hidden;margin-top:8px}
+.progress-fill{height:100%;background:var(--accent2);border-radius:4px;transition:width 0.3s}
+.log{background:var(--bg);border-radius:8px;padding:12px;max-height:150px;overflow-y:auto;font-size:0.8rem;font-family:monospace}
+.log-entry{padding:4px 0;border-bottom:1px solid var(--border)}
+.log-entry:last-child{border-bottom:none}
+.log-time{color:var(--accent)}
+.export-box{background:var(--bg);border-radius:8px;padding:12px;margin-top:12px;font-size:0.8rem;font-family:monospace;max-height:100px;overflow-y:auto}
 .footer{text-align:center;margin-top:32px;padding:20px;color:var(--muted);font-size:0.85rem}
-.footer a{color:var(--accent);text-decoration:none}
 </style>
 </head>
 <body>
@@ -107,90 +58,217 @@ h1{text-align:center;margin-bottom:8px;font-size:2.2rem;background:linear-gradie
 <h1>⚡ Control Systems Portfolio</h1>
 <p class="subtitle">Junior Electrical & Control Systems Engineer — Targeting Sudan · UAE · Qatar · Saudi · Oman</p>
 
-<div class="toast" id="toast">Progress saved!</div>
-
 <div class="stats">
-  <div class="stat-card blue" onclick="showModal('projects')"><div class="stat-value">4</div><div class="stat-label">Core Projects</div><div class="stat-change">↑ 0 this week</div></div>
-  <div class="stat-card green" onclick="showModal('skills')"><div class="stat-value">9</div><div class="stat-label">Core Skills</div><div class="stat-change">↑ 0 this week</div></div>
-  <div class="stat-card yellow" onclick="showModal('jobs')"><div class="stat-value">786</div><div class="stat-label">Jobs Scraped</div><div class="stat-change">Sudan + Gulf</div></div>
-  <div class="stat-card purple" onclick="showModal('repos')"><div class="stat-value">1</div><div class="stat-label">GitHub Repos</div><div class="stat-change">alabbas-bazazid</div></div>
+  <div class="stat-card"><div class="stat-value" id="stat-week">2</div><div class="stat-label">Current Week</div></div>
+  <div class="stat-card"><div class="stat-value" id="stat-done">0</div><div class="stat-label">Tasks Done</div></div>
+  <div class="stat-card"><div class="stat-value" id="stat-total">0</div><div class="stat-label">Total Tasks</div></div>
+  <div class="stat-card"><div class="stat-value" id="stat-streak">1</div><div class="stat-label">Day Streak 🔥</div></div>
 </div>
 
-<div class="progress-section">
-  <div class="progress-header"><span>Overall Progress</span><span>Week 2 of 21</span></div>
-  <div class="progress-ring">
-    <div class="ring"><svg width="120" height="120"><circle class="bg" cx="60" cy="60" r="50"/><circle class="fill" id="ring-fill" cx="60" cy="60" r="50" stroke-dasharray="314" stroke-dashoffset="284"/></svg><div class="ring-value"><div class="num" id="ring-percent">10%</div><div class="lbl">Complete</div></div></div>
-    <div class="progress-details">
-      <div class="progress-item"><div class="val">133</div><div class="lbl">Days Left</div></div>
-      <div class="progress-item"><div class="val">35</div><div class="lbl">Hrs/Week</div></div>
-      <div class="progress-item"><div class="val">465</div><div class="lbl">Total Hours</div></div>
+<div class="card">
+  <div class="ring">
+    <div class="ring-wrap">
+      <svg width="100" height="100"><circle class="bg" cx="50" cy="50" r="40"/><circle class="fill" id="ring" cx="50" cy="50" r="40" stroke-dasharray="251" stroke-dashoffset="226"/></svg>
+      <div class="ring-value"><div class="num" id="ring-pct">10%</div><div class="lbl">Week 2</div></div>
     </div>
-  </div>
-</div>
-
-<div class="grid">
-  <div class="card">
-    <h2>🎯 Skills Gap</h2>
-    <div class="skill-tags" style="margin-top:8px;">
-      <span class="skill-tag have">TIA Portal</span><span class="skill-tag have">Ladder Logic</span>
-      <span class="skill-tag have">HMI Design</span><span class="skill-tag have">SCADA Basics</span>
-      <span class="skill-tag have">MATLAB</span><span class="skill-tag gap">ETAP</span>
-      <span class="skill-tag gap">Python</span><span class="skill-tag gap">Modbus</span>
-      <span class="skill-tag future">System Integration</span><span class="skill-tag future">BMS</span>
-    </div>
-    <p style="margin-top:12px;font-size:0.8rem;color:var(--muted);">Click any skill for details</p>
-  </div>
-  <div class="card">
-    <h2>📅 Timeline</h2>
-    <div class="timeline">
-      <div class="timeline-item current"><div class="timeline-week">Week 1-4</div><div class="timeline-title">PLC + SCADA Project</div></div>
-      <div class="timeline-item"><div class="timeline-week">Week 5-8</div><div class="timeline-title">Electrical Design</div></div>
-      <div class="timeline-item"><div class="timeline-week">Week 9</div><div class="timeline-title">GCC Standards</div></div>
-      <div class="timeline-item"><div class="timeline-week">Week 10-11</div><div class="timeline-title">Python Modbus Logger</div></div>
-      <div class="timeline-item"><div class="timeline-week">Week 12-13</div><div class="timeline-title">Ignition SCADA</div></div>
+    <div style="flex:1;">
+      <h3 style="margin-bottom:8px;">Week 2 Progress</h3>
+      <div class="progress-bar"><div class="progress-fill" id="week-progress" style="width:0%"></div></div>
+      <p style="margin-top:8px;font-size:0.85rem;color:var(--muted);" id="week-remaining">0 of 10 tasks completed</p>
     </div>
   </div>
 </div>
 
-<div class="grid">
-  <div class="card">
-    <h2>🛠️ 4 Core Projects</h2>
-    <div class="project-grid">
-      <div class="project-card p1"><div class="project-num">Project 1</div><div class="project-title">PLC Conveyor Sorting</div><div class="project-tools">TIA Portal · PLCSIM · WinCC</div><div class="project-weeks">Weeks 1-4</div></div>
-      <div class="project-card p2"><div class="project-num">Project 2</div><div class="project-title">Electrical Facility Design</div><div class="project-tools">AutoCAD Electrical · ETAP</div><div class="project-weeks">Weeks 5-8</div></div>
-      <div class="project-card p3"><div class="project-num">Project 3</div><div class="project-title">Python Modbus Logger</div><div class="project-tools">Python · pymodbus · SQLite</div><div class="project-weeks">Weeks 10-11</div></div>
-      <div class="project-card p4"><div class="project-num">Project 4</div><div class="project-title">Ignition SCADA Dashboard</div><div class="project-tools">Ignition · SQL · Python</div><div class="project-weeks">Weeks 12-13</div></div>
-    </div>
+<div class="card">
+  <h2>✅ Week <span id="week-num">2</span> Checklist</h2>
+  <ul class="checklist" id="checklist"></ul>
+  <div class="week-complete" id="week-complete">
+    <h3>🎉 Week Complete!</h3>
+    <p>You finished all tasks for this week. Ready for the next?</p>
+    <button class="btn btn-success" onclick="nextWeek()">Start Week <span id="next-week-num">3</span> →</button>
   </div>
-  <div class="card">
-    <h2>✅ Today's Tasks <span id="tasks-remaining" style="background:var(--accent);padding:2px 8px;border-radius:10px;font-size:0.7rem;">0/3</span></h2>
-    <ul class="checklist" id="checklist"></ul>
-  </div>
+</div>
+
+<div class="card">
+  <h2>📤 Status for Hermes</h2>
+  <p style="font-size:0.85rem;color:var(--muted);margin-bottom:8px;">Copy this and send to Hermes to update your progress:</p>
+  <div class="export-box" id="export-box"></div>
+  <button class="btn" style="margin-top:8px;" onclick="copyStatus()">📋 Copy Status</button>
+</div>
+
+<div class="card">
+  <h2>📝 Activity Log</h2>
+  <div class="log" id="log"></div>
 </div>
 
 <div class="footer">
-  <p><a href="https://github.com/TensaiSan26/alabbas-bazazid" target="_blank">GitHub</a> · <a href="21_WEEK_ROADMAP_FOCUSED.md">Roadmap</a> · <a href="RESUME_UPDATED.md">Resume</a></p>
+  <p>🔗 <a href="https://github.com/TensaiSan26/alabbas-bazazid" style="color:var(--accent);">GitHub</a> · Progress auto-saves to browser</p>
 </div>
 
 </div>
 
 <script>
-const tasks=[
-  {text:"Install TIA Portal trial",done:true},
-  {text:"Install Python + VS Code",done:true},
-  {text:"Create GitHub account",done:true},
-  {text:"TIA Portal: Ladder Logic review",done:false},
-  {text:"TIA Portal: FB + DB + SCL",done:false},
-  {text:"HMI: Main screen + alarms",done:false}
-];
-function renderChecklist(){
-  const cl=document.getElementById('checklist');
-  cl.innerHTML=tasks.map((t,i)=>`<li class="${t.done?'checked':''}"><input type="checkbox" ${t.done?'checked':''} onchange="toggle(${i})"><span>${t.text}</span></li>`).join('');
-  const done=tasks.filter(t=>t.done).length;
-  document.getElementById('tasks-remaining').textContent=`${done}/${tasks.length}`;
+// Data structure
+let progress = JSON.parse(localStorage.getItem('portfolio_progress')) || {
+  currentWeek: 2,
+  weeksCompleted: [1],
+  streak: 1,
+  lastActive: new Date().toISOString()
+};
+
+// Task definitions for each week
+const weekTasks = {
+  2: [
+    {id:'2-1', text:'Install TIA Portal trial'},
+    {id:'2-2', text:'Install Python + VS Code'},
+    {id:'2-3', text:'Create GitHub account'},
+    {id:'2-4', text:'TIA Portal: Ladder Logic review'},
+    {id:'2-5', text:'TIA Portal: FB + DB + SCL'},
+    {id:'2-6', text:'HMI: Main screen + alarms'},
+    {id:'2-7', text:'HMI: Trends + recipes'},
+    {id:'2-8', text:'GitHub repo + README'},
+    {id:'2-9', text:'LinkedIn headline update'},
+    {id:'2-10', text:'LinkedIn skills + About section'}
+  ],
+  3: [
+    {id:'3-1', text:'Python basics review'},
+    {id:'3-2', text:'Python OOP + error handling'},
+    {id:'3-3', text:'pymodbus library tutorial'},
+    {id:'3-4', text:'Modbus TCP server'},
+    {id:'3-5', text:'Modbus TCP client'},
+    {id:'3-6', text:'SQLite database basics'},
+    {id:'3-7', text:'Data logging script'},
+    {id:'3-8', text:'GitHub upload Week 2 work'},
+    {id:'3-9', text:'LinkedIn post about progress'},
+    {id:'3-10', text:'Reflect + plan Week 3'}
+  ]
+};
+
+// Load completed tasks from storage
+let completedTasks = JSON.parse(localStorage.getItem('completed_tasks')) || {
+  '2-1':true, '2-2':true, '2-3':true
+};
+
+function init() {
+  loadWeek(progress.currentWeek);
+  updateStats();
+  renderLog();
+  updateExport();
 }
-function toggle(i){tasks[i].done=!tasks[i].done;renderChecklist();}
-renderChecklist();
+
+function loadWeek(week) {
+  const tasks = weekTasks[week] || [];
+  const cl = document.getElementById('checklist');
+  
+  cl.innerHTML = tasks.map(t => {
+    const done = completedTasks[t.id] || false;
+    return `<li class="${done ? 'checked' : ''}" onclick="toggleTask('${t.id}')">
+      <input type="checkbox" ${done ? 'checked' : ''} onchange="toggleTask('${t.id}')">
+      <span class="task-name">${t.text}</span>
+      <span class="task-status ${done ? 'done' : 'pending'}">${done ? 'Done' : 'Todo'}</span>
+    </li>`;
+  }).join('');
+  
+  document.getElementById('week-num').textContent = week;
+  
+  // Check if week is complete
+  const allDone = tasks.length > 0 && tasks.every(t => completedTasks[t.id]);
+  document.getElementById('week-complete').classList.toggle('show', allDone);
+  document.getElementById('next-week-num').textContent = week + 1;
+  
+  updateRing();
+  updateExport();
+}
+
+function toggleTask(taskId) {
+  completedTasks[taskId] = !completedTasks[taskId];
+  if (!completedTasks[taskId]) delete completedTasks[taskId];
+  
+  localStorage.setItem('completed_tasks', JSON.stringify(completedTasks));
+  
+  const week = progress.currentWeek;
+  const tasks = weekTasks[week] || [];
+  const allDone = tasks.length > 0 && tasks.every(t => completedTasks[t.id]);
+  
+  if (allDone && !progress.weeksCompleted.includes(week)) {
+    progress.weeksCompleted.push(week);
+    progress.streak++;
+    addLog(`🎉 Week ${week} completed! Streak: ${progress.streak}`);
+  }
+  
+  progress.lastActive = new Date().toISOString();
+  localStorage.setItem('portfolio_progress', JSON.stringify(progress));
+  
+  loadWeek(week);
+  updateStats();
+  addLog(`Task ${completedTasks[taskId] ? 'completed' : 'unchecked'}: ${taskId}`);
+}
+
+function nextWeek() {
+  progress.currentWeek++;
+  localStorage.setItem('portfolio_progress', JSON.stringify(progress));
+  loadWeek(progress.currentWeek);
+  updateStats();
+  addLog(`📅 Started Week ${progress.currentWeek}`);
+}
+
+function updateStats() {
+  document.getElementById('stat-week').textContent = progress.currentWeek;
+  document.getElementById('stat-streak').textContent = progress.streak;
+  
+  const week = progress.currentWeek;
+  const tasks = weekTasks[week] || [];
+  const completed = tasks.filter(t => completedTasks[t.id]).length;
+  document.getElementById('stat-done').textContent = completed;
+  document.getElementById('stat-total').textContent = tasks.length;
+  document.getElementById('week-remaining').textContent = `${completed} of ${tasks.length} tasks completed`;
+  document.getElementById('week-progress').style.width = `${tasks.length ? (completed / tasks.length) * 100 : 0}%`;
+}
+
+function updateRing() {
+  const week = progress.currentWeek;
+  const tasks = weekTasks[week] || [];
+  const completed = tasks.filter(t => completedTasks[t.id]).length;
+  const pct = tasks.length ? Math.round((completed / tasks.length) * 100) : 0;
+  const offset = 251 - (251 * pct / 100);
+  document.getElementById('ring').style.strokeDashoffset = offset;
+  document.getElementById('ring-pct').textContent = pct + '%';
+}
+
+function updateExport() {
+  const week = progress.currentWeek;
+  const tasks = weekTasks[week] || [];
+  const completed = tasks.filter(t => completedTasks[t.id]).length;
+  const status = {
+    week: week,
+    completed: progress.weeksCompleted,
+    currentTasks: `${completed}/${tasks.length}`,
+    streak: progress.streak,
+    lastActive: progress.lastActive
+  };
+  document.getElementById('export-box').textContent = JSON.stringify(status, null, 2);
+}
+
+function copyStatus() {
+  const text = document.getElementById('export-box').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    alert('Status copied! Paste it to Hermes to update progress.');
+  });
+}
+
+function addLog(msg) {
+  const log = document.getElementById('log');
+  const time = new Date().toLocaleTimeString();
+  log.innerHTML = `<div class="log-entry"><span class="log-time">[${time}]</span> ${msg}</div>` + log.innerHTML;
+}
+
+function renderLog() {
+  const log = document.getElementById('log');
+  log.innerHTML = `<div class="log-entry"><span class="log-time">[${new Date().toLocaleTimeString()}]</span> Dashboard loaded — Week ${progress.currentWeek}</div>`;
+}
+
+// Init
+init();
 </script>
 </body>
 </html>
